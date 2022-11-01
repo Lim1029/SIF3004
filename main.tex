@@ -12,36 +12,58 @@
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{tikz}
 
-\title{SIF3004 Final Year Project Proposal}
+
+
+
+\title{SIF3004 Final Year Project Proposal : RAdio Galaxy Environment Reference Survey (RAGERS) Project }
 \author{Lim Ming Kang U2004991/1}
 
 \begin{document}
 \maketitle
 \section{Problem Statement}
 
-we want to see what happen at cosmic noon (at z=2-3, the star forming rate is super high).
-"dusty" galaxies are very hard to observe, observation is needed to see what happen
-based on jcmt, The growth and evolution of the aforementioned galaxy overdensities with redshift is to this day still not characterised. Nor is the effect the AGN activity has on the growth of the central overdensities.
+At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 bllion years ago), the star forming rates (SFRs) is the highest, known as "the cosmic noon"
+Those galaxies are usually "dusty", enriched with dust which serves as the materials to star forming.
+\medskip
 
-so basically we still dont have a clear understanding of the formation and high SFR of overdensities at HzRGs.
+\noindent A thorough understanding of those galaxies are important in understanding galaxies formation and evaluation of the early universe.
+\medskip
+
+\noindent The growth and evolution of the aforementioned galaxy overdensities with redshift is to this day still not characterised. Nor is the effect the AGN activity has on the growth of the central overdensities.
+\medskip
+
+\noindent Due to dust, those galaxies are not feasible to be observed in visible region, a telescope capable in observing in far infrared is needed to detect the galaxies.
+\medskip
+
+\noindent Data directly from telescope is not suitable for analysis, as noise and false detections may be presence, extensive data reduction and cleaning are essential to obtain a clean map for analysis. 
+\medskip
+
+\noindent The addition of far infrared data adds values to multiwavelength analysis, especially in obtaining photometric redshift.
 
 \section{Objectives}
+\begin{enumerate}
+    \item To reduce data from raw telescope data to obtain analysable data (eg. source count) for a single source field
+    \item To study statistically (eg. surface number density) of overdensities within a source field
+    \item To obtain photometric redshift for detected submm galaxies in a source field.
+\end{enumerate}
+\section{Background}
 
-The main Objective is to study about the overdensities of region 45arcmin2 around a high redshift radio galaxy sources (known as HzRGs) object, an example will be 3C266. overdensities means there are a lot of "objects" or galaxies around 3C266, and density is higher compared with other region in space. so i shall find the relation between the central object and the galaxies nearby. and some statistical study like surface number density.
+High Redshift Radio Galaxies (HzRG) are massive galaxies often containing large amounts of dust and gas. They are located at higher redshift (1 < z < 3), where star formation rate was very high.
+\medskip
 
-\section{Introduction and background}
+\noindent Research has shown that in redshift of {z = 2-3, there is a very high rate of star forming galaxies rate, the redshift zone is known as "cosmic noon". the reason is unknown. This phenomenon might be related to the influence of HzRGs, more specifically the jets from the center of galaxies, Active Galactic Nuclei (AGN). And the galaxies that show high SFR is called "dusty start forming galaxies (DSFGs)", dusty as due to the high concentration of gas contained in that galaxy. and due to dusty, it's not suitable to use radio and optical instrument to observe. however submm (microwave) is a good wavelength to observe.
+\medskip
 
-research has shown that in redshift of z = 2-3, there is a very high rate of star forming galaxies rate, the redshift zone is known as "cosmic noon". the reason is unknown. Why? (need to do some literature review). and the galaxies that show high SFR is called "dusty start forming galaxies (DSFGs)", dusty as due to the high concentration of gas contained in that galaxy. and due to dusty, it's not suitable to use radio and optical instrument to observe. however submm (microwave) is a good wavelength to observe (but why?) 
+\noindent Observation on submillimetre wavelength has becoming more popular due to the high number of submillimetre galaxies (SMG) in high redshift, that would potentially give insights on galaxies formation and evolution, as HzRG might be the progenitor 
 
-overdensities:
-a region in space where the density of matter is relatively high than others. a lot of interesting things can happen at overdensities, rather than underdensities, where it will evolve into nothing, void. this proposal is to examine the overdensities region near the HzRG region.
+\paragraph{Overdensities:}A region in space where the density of matter is relatively high than others. a lot of interesting things can happen at overdensities, rather than underdensities, where it will evolve into nothing, void. this proposal is to examine the overdensities region near the HzRG region.
 
-star forming galaxies:
-galaxies which is high in SFR, usually dusty cause of abundance in gas, not quite sure which gas though, neutral hydrogen?
+\paragraph{Star Forming Galaxies(SFGs):} Galaxies which is high in SFR, usually dusty cause of abundance in gas, not quite sure which gas though, neutral hydrogen?
 then what's 450 and 850 micron gonna do? have to review on scuba 2 then!
 
-Cosmic Noon:
+\paragraph{Cosmic Noon:}
 That was when star formation in massive galaxies was at its peak
 
 Scaling relation:
@@ -57,10 +79,24 @@ spectroscopy redshift is used to calibrate and optimize photometric redshift
 Spitzer/MIPS 24 micron
 
 \section{Research Methodology}
-scuba 2 runs on 450 and 850micron, so around near infrared area, 
-\section{Data Analysis and Expected Results}
+
+The research will be carried out on raw data recorded on source 5C7269 detected by JCMT with SCUBA-2 under RAGERS Project, collaborate with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software.
+
+\paragraph{James Clerk Maxwell Telescope (JCMT)} is a 15m telesope designed to run on submillimetre wavelength (far infrared region). It is positioned at Maunakea, Hawaii.
+
+\paragraph{SCUBA-2} is a camera attached on JCMT to observe at 450$\mu m$ and 850$\mu m$ (~666GHz and 353GHz) The data is formatted and stored in .sdf format, which is readable by starlink software.
+
+\paragraph{The RAdio Galaxy Environment Reference Survey} is a JCMT program to observe overdensities of dusty galaxies within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ 
+
+\paragraph{5C7269} is a source field centered around a HzRG named 5C7269, which is located at $RA = 8h28m39s$, $DEC = 25d28m27.1s$ and $z = 2.218$ 
+
+\paragraph{starlink} is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation.
+
+\section{Expected Results}
+From the final reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift.
+
 \section{Significance}
-\section{Conclusion}
+Surface number density is essential in studying the effect of environment. Photometric redshift is necessary to study the evolution of galaxies with redshift.
 
 \bibliographystyle{plain}
 \bibliography{sample}
