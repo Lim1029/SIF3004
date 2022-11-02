@@ -1,14 +1,16 @@
 # Fdb version 3
-["bibtex main"] 1667349851 "main.aux" "main.bbl" "main" 1667349851
+["bibtex main"] 1667366383 "main.aux" "main.bbl" "main" 1667366386
   "c:/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1666667762 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1667349850 2478 f77cfc5b476d445dd6d4e30999dd8d10 "pdflatex"
-  "sample.bib" 1667349839 13137 cec42b7b8037c9a288f472deb044f85a ""
+  "main.aux" 1667366385 3800 c787f7930e398381712f084ade7ad7cd "pdflatex"
+  "sample.bib" 1667365452 13760 c595f822bb8a626a1e4c4f8180fcb4c7 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667349852 "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" "main.pdf" "main" 1667349852
+["pdflatex"] 1667366384 "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" "main.pdf" "main" 1667366386
   "Flowchart.png" 1667314778 7969 21aa3072ae68218900ec3614411e5adf ""
-  "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" 1667349798 6316 06d9581d0e526807b9806e2b4a09274c ""
+  "SED.png" 1667365041 61518 3399701df4699d3ba663e21a62e65b97 ""
+  "SNDensity.png" 1667364464 21002 e65bd99c8af60163e9847b06681e1eb0 ""
+  "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" 1667366379 7269 50c1a4f8e15ccae8d7163dce9d4a0ea0 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1666669450 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1666667176 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1666667176 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -160,10 +162,11 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1666675118 4648419 cd736d89bc726120ec8d74e8e9beb636 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1666675256 3058772 9f4bc1a894fabd85c9abc250dd2e7f82 ""
   "c:/texlive/2022/texmf.cnf" 1666675092 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1667349850 2478 f77cfc5b476d445dd6d4e30999dd8d10 "pdflatex"
-  "main.bbl" 1667349852 353 3c127b9c1730c3c6cc53821f4f63c641 "bibtex main"
-  "main.out" 1667349850 692 ce9c6df8b90ec6a881fe286433289e50 "pdflatex"
-  "main.tex" 1667349798 6316 06d9581d0e526807b9806e2b4a09274c ""
+  "main.aux" 1667366385 3800 c787f7930e398381712f084ade7ad7cd "pdflatex"
+  "main.bbl" 1667366384 2066 7d561025406ac7fb4586d0229f094d3e "bibtex main"
+  "main.out" 1667366385 692 ce9c6df8b90ec6a881fe286433289e50 "pdflatex"
+  "main.tex" 1667366379 7269 50c1a4f8e15ccae8d7163dce9d4a0ea0 ""
+  "reducevsunreduce.png" 1667351644 210679 59d206963fc626a022f67ddab0228d74 ""
   (generated)
   "main.aux"
   "main.log"

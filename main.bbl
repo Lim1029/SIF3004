@@ -3,8 +3,43 @@
 \bibitem{DaCunha2021}
 E~Da~Cunha, JA~Hodge, CM~Casey, HSB Algera, M~Kaasinen, I~Smail, F~Walter,
   WN~Brandt, H~Dannerbauer, and ROBERTO Decarli.
-\newblock Measurements of the dust properties in z≃ 1–3 submillimeter
-  galaxies with alma.
+\newblock Measurements of the dust properties in $(z\approx1–3)$
+  submillimeter galaxies with alma.
 \newblock {\em The Astrophysical Journal}, 919(1):30, 2021.
+
+\bibitem{Zotti2018}
+Gianfranco De~Zotti, Matteo Bonato, and Zhen-Yi Cai.
+\newblock Star formation across cosmic time with radio surveys. the promise of
+  the ska.
+\newblock {\em arXiv preprint arXiv:1802.06561}, 2018.
+
+\bibitem{Geach2016}
+J.~E. Geach, J.~S. Dunlop, M.~Halpern, Ian Smail, P.~van~der Werf, D.~M.
+  Alexander, O.~Almaini, I.~Aretxaga, V.~Arumugam, V.~Asboth, M.~Banerji,
+  J.~Beanlands, P.~N. Best, A.~W. Blain, M.~Birkinshaw, E.~L. Chapin, S.~C.
+  Chapman, C-C. Chen, A.~Chrysostomou, C.~Clarke, D.~L. Clements, C.~Conselice,
+  K.~E.~K. Coppin, W.~I. Cowley, A.~L.~R. Danielson, S.~Eales, A.~C. Edge,
+  D.~Farrah, A.~Gibb, C.~M. Harrison, N.~K. Hine, D.~Hughes, R.~J. Ivison,
+  M.~Jarvis, T.~Jenness, S.~F. Jones, A.~Karim, M.~Koprowski, K.~K. Knudsen,
+  C.~G. Lacey, T.~Mackenzie, G.~Marsden, K.~McAlpine, R.~McMahon, R.~Meijerink,
+  M.~J. Michałowski, S.~J. Oliver, M.~J. Page, J.~A. Peacock, D.~Rigopoulou,
+  E.~I. Robson, I.~Roseboom, K.~Rotermund, Douglas Scott, S.~Serjeant,
+  C.~Simpson, J.~M. Simpson, D.~J.~B. Smith, M.~Spaans, F.~Stanley, J.~A.
+  Stevens, A.~M. Swinbank, T.~Targett, A.~P. Thomson, E.~Valiante, D.~A. Wake,
+  T.~M.~A. Webb, C.~Willott, J.~A. Zavala, and M.~Zemcov.
+\newblock The scuba-2 cosmology legacy survey: $850 \mu m maps$, catalogues
+  and number counts.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  465(2):1789--1806, 2016.
+
+\bibitem{Schreiber2020}
+Natascha M.~Förster Schreiber and Stijn Wuyts.
+\newblock Star-forming galaxies at cosmic noon.
+\newblock {\em Annual Review of Astronomy and Astrophysics}, 58(1):661--725,
+  2020.
+
+\bibitem{Ragers2021}
+RAGERS Team.
+\newblock The radio galaxy environment reference survey, 2021.
 
 \end{thebibliography}

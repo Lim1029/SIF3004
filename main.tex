@@ -6,7 +6,7 @@
 
 % Set page size and margins
 % Replace `letterpaper' with `a4paper' for UK/EU standard size
-\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
 
 % Useful packages
 \usepackage{amsmath}
@@ -24,17 +24,17 @@
 \maketitle
 \section{Problem Statement}
 
-At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 bllion years ago), the star forming rates (SFRs) is the highest, known as "the cosmic noon"
+At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 bllion years ago), the star forming rates (SFRs) is the highest, known as "the cosmic noon"\cite{Schreiber2020}.
 Those galaxies are usually "dusty", enriched with dust which serves as the materials to star forming.
 \medskip
 
-\noindent A thorough understanding of those galaxies are important in understanding galaxies formation and evaluation of the early universe.
+\noindent A comprehensive understanding of those galaxies are important in understanding galaxies formation and evaluation of the early universe.\cite{Geach2016}
+
+
+\paragraph{Characterisation} of the aforementioned galaxy overdensities with redshift, and the effect of Active Galatic Neuclei (AGN) activity on the growth of the central overdensities are to this day still not thorough.\cite{Ragers2021}
 \medskip
 
-\noindent The growth and evolution of the aforementioned galaxy overdensities with redshift is to this day still not characterised. Nor is the effect the AGN activity has on the growth of the central overdensities.
-\medskip
-
-\noindent Due to dust, those galaxies are not feasible to be observed in visible region, a telescope capable in observing in far infrared is needed to detect the galaxies.
+\noindent Due to dust, those galaxies are not feasible to be observed in visible region, a telescope capable in observing in far infrared wavelength is needed to detect the galaxies.
 \medskip
 
 \noindent Data directly from telescope is not suitable for analysis, as noise and false detections may be presence, extensive data reduction and cleaning are essential to obtain a clean map for analysis. 
@@ -54,19 +54,11 @@ Those galaxies are usually "dusty", enriched with dust which serves as the mater
 
 \paragraph{Overdensities} are regions in space where the density of matter is relatively higher than others. Events such as mergers of galaxies and active galatic nuclei (AGN) happen in overdensities region. At $z>1$, High redshift radio galaxies (HzRG) are usually in the region of overdensities where SMGs are. The dynamic between SMGs and HzRGs can be studied so have a more robust understanding of galaxy evolution at high redshift.
 
-\paragraph{Telescope} operating at submillimetre region can be used to observe SMGs. An example is Atacama Large Millimeter Array (ALMA) telesope located in northern Chile, it operates at around wavelength $ 0.4mm < \lambda < 2.73mm$. Other examples are Fred Young Submillimeter Telescope operating at $\lambda=0.35mm$ and SCUBA-2 at James Clerk Maxwell Telescope (JCMT) operating at $\lambda=0.35mm$ and $\lambda=0.67mm$, whose data is used in the research of this proposal. Telescopes are usually associate with their proprietery software for data handling. For instances, CASA for ALMA, Starlink for JCMT and AIPS for Very Large Baseline Array (VLBA)
-
-Spectral energy distribution (SED):
-can derive photometric redshift, stellar mass and SFR
-
-Spectral resolution (R) describes the ability of a sensor to define fine wavelength intervals
-
-spectroscopy redshift is used to calibrate and optimize photometric redshift
-Spitzer/MIPS 24 micron
+\paragraph{Telescope} operating at submillimetre region can be used to observe SMGs. An example is Atacama Large Millimeter Array (ALMA) telesope located in northern Chile, it operates at around wavelength $ 0.4mm < \lambda < 2.73mm$. Other examples are Fred Young Submillimeter Telescope operating at $\lambda=0.35mm$ and SCUBA-2 at James Clerk Maxwell Telescope (JCMT) operating at $\lambda=0.45mm$ and $\lambda=0.85mm$, whose data is used in the research of this proposal. Telescopes are usually associate with their proprietery software for data handling. For instances, CASA for ALMA, Starlink for JCMT and AIPS for Very Large Baseline Array (VLBA). They are extremely important to produce useful science data from noisy telescope data. Figure \ref{fig:reducevsunreduce} shows an example of the comparison between raw telescope data (up), and image after data reduction (down) 
 
 \section{Research Methodology}
 
-The research will be carried out on raw data recorded on source 5C7269 detected by JCMT with SCUBA-2 under RAGERS Project, collaborate with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
+The research will be carried out on handling raw 0.85mm and 0.45mm data collected from JCMT SCUBA-2 under RAGERS Project, in collaboration with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
 
 \paragraph{James Clerk Maxwell Telescope (JCMT)} is a 15m telesope designed to run on submillimetre wavelength (far infrared region). It is positioned at Maunakea, Hawaii.
 
@@ -74,18 +66,40 @@ The research will be carried out on raw data recorded on source 5C7269 detected 
 
 \paragraph{The RAdio Galaxy Environment Reference Survey} is a JCMT program to observe overdensities of dusty galaxies within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ 
 
-\paragraph{5C7269} is a source field spanning across few Mpc centered around a HzRG, which is located at $1 < z < 3.5$ 
+\paragraph{Source field} is a region spanning across few Mpc centered around a HzRG, which is located at $1 < z < 3.5$ 
 
-\paragraph{starlink} is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation.
+\paragraph{Starlink} is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation.
 
 \begin{figure}
-    \includegraphics{Flowchart.png}
+    \centering
+    \includegraphics[width=100mm]{Flowchart.png}
     \caption{General process of preparing useful data from raw telescope data}
     \label{fig:flowchart1}
 \end{figure}
 
+\begin{figure}
+    \centering
+    \includegraphics[width=100mm]{reducevsunreduce.png}
+    \caption{An example of the comparison between raw telescope data (up), and image after data reduction (down)}
+    \label{fig:reducevsunreduce}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=100mm]{SNDensity.png}
+    \caption{Surface number density as the function of distance from cluster center}
+    \label{fig:sndensity}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=100mm]{SED.png}
+    \caption{An example of Spectral Energy Density graph, a logarithmic graph of flux density vs frequency}
+    \label{fig:sedgraph}
+\end{figure}
+
 \section{Expected Results}
-From the final reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift.
+From the final reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Figure \ref{fig:sndensity} shows one example of graph of surface number density of cluster galaxies vs distance from a cluster center. A Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift. An example of the stated graph is shown in figure \ref{fig:sedgraph}, from \cite{Zotti2018}
 
 \section{Significance}
 Surface number density is essential in studying the effect of environment. Photometric redshift is necessary to study the evolution of galaxies with redshift.

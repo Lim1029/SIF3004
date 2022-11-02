@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  2 NOV 2022 08:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  2 NOV 2022 13:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -476,16 +476,16 @@ LaTeX Font Info:    ... okay on input line 23.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=443.57848pt
-* \textheight=681.15898pt
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
 * \topmargin=-52.36449pt
@@ -531,54 +531,54 @@ Package hyperref Info: Link coloring ON on input line 23.
 \openout4 = `main.out'.
 
 
-
-LaTeX Warning: Citation `DaCunha2021' on page 1 undefined on input line 53.
+Overfull \hbox (13.51195pt too wide) in paragraph at lines 53--54
+ []\OT1/cmr/bx/n/10 Submillimetre Galax-ies (SMGs)[] \OT1/cmr/m/n/10 are rare galax-ies with high star for-ma-tion rates $(\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 100\OML/cmm/m/it/10 M[]yr[]\OT1/cmr/m/n/10 )$
+ []
 
 [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<Flowchart.png, id=50, 352.76794pt x 150.41194pt>
+<Flowchart.png, id=60, 352.76794pt x 150.41194pt>
 File: Flowchart.png Graphic file (type png)
 <use Flowchart.png>
-Package pdftex.def Info: Flowchart.png  used on input line 82.
-(pdftex.def)             Requested size: 352.76707pt x 150.41158pt.
- [2 <./Flowchart.png>] (./main.bbl
+Package pdftex.def Info: Flowchart.png  used on input line 75.
+(pdftex.def)             Requested size: 284.52756pt x 121.3212pt.
+<reducevsunreduce.png, id=61, 354.123pt x 332.442pt>
+File: reducevsunreduce.png Graphic file (type png)
+<use reducevsunreduce.png>
+Package pdftex.def Info: reducevsunreduce.png  used on input line 82.
+(pdftex.def)             Requested size: 284.52756pt x 267.12573pt.
+<SNDensity.png, id=63, 435.0654pt x 312.2064pt>
+File: SNDensity.png Graphic file (type png)
+<use SNDensity.png>
+Package pdftex.def Info: SNDensity.png  used on input line 89.
+(pdftex.def)             Requested size: 284.52756pt x 204.17989pt.
+<SED.png, id=64, 204.765pt x 137.5539pt>
+File: SED.png Graphic file (type png)
+<use SED.png>
+Package pdftex.def Info: SED.png  used on input line 96.
+(pdftex.def)             Requested size: 284.52756pt x 191.14896pt.
+ (./main.bbl [2 <./Flowchart.png>] [3 <./reducevsunreduce.png> <./SNDensity.png>]
 
-./main.bbl:6: LaTeX Error: Unicode character ≃ (U+2243)
-               not set up for use with LaTeX.
+LaTeX Warning: Command \textendash invalid in math mode on input line 6.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...Measurements of the dust properties in z≃
-                                                   1–3 submillimeter
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-) [3] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+) [4 <./SED.png>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: CE9C6DF8B90EC6A881FE286433289E50;692.
  ) 
 Here is how much of TeX's memory you used:
- 20764 strings out of 475071
- 388131 string characters out of 5782907
- 734167 words of memory out of 5000000
- 41807 multiletter control sequences out of 15000+600000
+ 20800 strings out of 475071
+ 388700 string characters out of 5782907
+ 735663 words of memory out of 5000000
+ 41831 multiletter control sequences out of 15000+600000
  474681 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,729b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,6n,89p,957b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (3 pages, 146915 bytes).
+Output written on main.pdf (4 pages, 434789 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
