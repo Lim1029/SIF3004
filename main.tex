@@ -50,25 +50,11 @@ Those galaxies are usually "dusty", enriched with dust which serves as the mater
 \end{enumerate}
 \section{Background}
 
-High Redshift Radio Galaxies (HzRG) are massive galaxies often containing large amounts of dust and gas. They are located at higher redshift (1 < z < 3), where star formation rate was very high.
-\medskip
+\paragraph{Submillimetre Galaxies (SMGs)} are rare galaxies with high star formation rates $(>100M_\odot yr^{-1})$ \cite{DaCunha2021} populated in high redshift region. Suspected to be the progenitors for local giant galaxies, SMGs are good candidates to study the evolution of galaxies in high redshift. One challenge in observing SMGs is the amount of dust, that serves as the building blocks for star formation, which obscure visible light. However, far infrared/radio frequency are transparent to dust, thus the observation is allowed with submillimetre telecope. 
 
-\noindent Research has shown that in redshift of {z = 2-3, there is a very high rate of star forming galaxies rate, the redshift zone is known as "cosmic noon". the reason is unknown. This phenomenon might be related to the influence of HzRGs, more specifically the jets from the center of galaxies, Active Galactic Nuclei (AGN). And the galaxies that show high SFR is called "dusty start forming galaxies (DSFGs)", dusty as due to the high concentration of gas contained in that galaxy. and due to dusty, it's not suitable to use radio and optical instrument to observe. however submm (microwave) is a good wavelength to observe.
-\medskip
+\paragraph{Overdensities} are regions in space where the density of matter is relatively higher than others. Events such as mergers of galaxies and active galatic nuclei (AGN) happen in overdensities region. At $z>1$, High redshift radio galaxies (HzRG) are usually in the region of overdensities where SMGs are. The dynamic between SMGs and HzRGs can be studied so have a more robust understanding of galaxy evolution at high redshift.
 
-\noindent Observation on submillimetre wavelength has becoming more popular due to the high number of submillimetre galaxies (SMG) in high redshift, that would potentially give insights on galaxies formation and evolution, as HzRG might be the progenitor 
-
-\paragraph{Overdensities:}A region in space where the density of matter is relatively high than others. a lot of interesting things can happen at overdensities, rather than underdensities, where it will evolve into nothing, void. this proposal is to examine the overdensities region near the HzRG region.
-
-\paragraph{Star Forming Galaxies(SFGs):} Galaxies which is high in SFR, usually dusty cause of abundance in gas, not quite sure which gas though, neutral hydrogen?
-then what's 450 and 850 micron gonna do? have to review on scuba 2 then!
-
-\paragraph{Cosmic Noon:}
-That was when star formation in massive galaxies was at its peak
-
-Scaling relation:
-strong trends that are observed between important physical properties (such as mass, size, luminosity and colours) of galaxies. 
-\url{https://astronomy.swin.edu.au/cosmos/S/Scaling+Relations#:~:text=Scaling%20relations%20describe%20strong%20trends%20that%20are%20observed,though%20different%20relations%20are%20used%20for%20each%20type.}
+\paragraph{Telescope} operating at submillimetre region can be used to observe SMGs. An example is Atacama Large Millimeter Array (ALMA) telesope located in northern Chile, it operates at around wavelength $ 0.4mm < \lambda < 2.73mm$. Other examples are Fred Young Submillimeter Telescope operating at $\lambda=0.35mm$ and SCUBA-2 at James Clerk Maxwell Telescope (JCMT) operating at $\lambda=0.35mm$ and $\lambda=0.67mm$, whose data is used in the research of this proposal. Telescopes are usually associate with their proprietery software for data handling. For instances, CASA for ALMA, Starlink for JCMT and AIPS for Very Large Baseline Array (VLBA)
 
 Spectral energy distribution (SED):
 can derive photometric redshift, stellar mass and SFR
@@ -80,7 +66,7 @@ Spitzer/MIPS 24 micron
 
 \section{Research Methodology}
 
-The research will be carried out on raw data recorded on source 5C7269 detected by JCMT with SCUBA-2 under RAGERS Project, collaborate with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software.
+The research will be carried out on raw data recorded on source 5C7269 detected by JCMT with SCUBA-2 under RAGERS Project, collaborate with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
 
 \paragraph{James Clerk Maxwell Telescope (JCMT)} is a 15m telesope designed to run on submillimetre wavelength (far infrared region). It is positioned at Maunakea, Hawaii.
 
@@ -88,9 +74,15 @@ The research will be carried out on raw data recorded on source 5C7269 detected 
 
 \paragraph{The RAdio Galaxy Environment Reference Survey} is a JCMT program to observe overdensities of dusty galaxies within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ 
 
-\paragraph{5C7269} is a source field centered around a HzRG named 5C7269, which is located at $RA = 8h28m39s$, $DEC = 25d28m27.1s$ and $z = 2.218$ 
+\paragraph{5C7269} is a source field spanning across few Mpc centered around a HzRG, which is located at $1 < z < 3.5$ 
 
 \paragraph{starlink} is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation.
+
+\begin{figure}
+    \includegraphics{Flowchart.png}
+    \caption{General process of preparing useful data from raw telescope data}
+    \label{fig:flowchart1}
+\end{figure}
 
 \section{Expected Results}
 From the final reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift.
