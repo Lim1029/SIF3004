@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  2 NOV 2022 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  2 NOV 2022 17:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -219,7 +219,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Overfull \hbox (13.51195pt too wide) in paragraph at lines 51--52
+Overfull \hbox (13.51195pt too wide) in paragraph at lines 47--48
  \OT1/cmr/bx/n/10 Sub-mil-lime-tre Galax-ies (SMGs)[] \OT1/cmr/m/n/10 are rare galax-ies with high star for-ma-tion rates $(\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 100\OML/cmm/m/it/10 M[]yr[]\OT1/cmr/m/n/10 )$
  []
 
@@ -229,41 +229,41 @@ Overfull \hbox (13.51195pt too wide) in paragraph at lines 51--52
 <Flowchart.png, id=14, 352.76794pt x 150.41194pt>
 File: Flowchart.png Graphic file (type png)
 <use Flowchart.png>
-Package pdftex.def Info: Flowchart.png  used on input line 73.
+Package pdftex.def Info: Flowchart.png  used on input line 69.
 (pdftex.def)             Requested size: 284.52756pt x 121.3212pt.
 <reducevsunreduce.png, id=15, 354.123pt x 332.442pt>
 File: reducevsunreduce.png Graphic file (type png)
 <use reducevsunreduce.png>
-Package pdftex.def Info: reducevsunreduce.png  used on input line 80.
+Package pdftex.def Info: reducevsunreduce.png  used on input line 76.
 (pdftex.def)             Requested size: 284.52756pt x 267.12573pt.
 <SNDensity.png, id=17, 435.0654pt x 312.2064pt>
 File: SNDensity.png Graphic file (type png)
 <use SNDensity.png>
-Package pdftex.def Info: SNDensity.png  used on input line 87.
+Package pdftex.def Info: SNDensity.png  used on input line 83.
 (pdftex.def)             Requested size: 284.52756pt x 204.17989pt.
 <SED.png, id=18, 204.765pt x 137.5539pt>
 File: SED.png Graphic file (type png)
 <use SED.png>
-Package pdftex.def Info: SED.png  used on input line 94.
+Package pdftex.def Info: SED.png  used on input line 90.
 (pdftex.def)             Requested size: 284.52756pt x 191.14896pt.
- (./main.bbl [2 <./Flowchart.png>] [3 <./reducevsunreduce.png> <./SNDensity.png>]
+ [2 <./Flowchart.png>] [3 <./reducevsunreduce.png> <./SNDensity.png>] (./main.bbl
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 6.
 
-) [4 <./SED.png>] (./main.aux) ) 
+[4 <./SED.png>]) [5] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3620 strings out of 475071
- 57930 string characters out of 5782907
- 429150 words of memory out of 5000000
- 25004 multiletter control sequences out of 15000+600000
+ 3621 strings out of 475071
+ 57942 string characters out of 5782907
+ 429154 words of memory out of 5000000
+ 25005 multiletter control sequences out of 15000+600000
  474681 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,957b,235s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,62p,1062b,235s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (4 pages, 434731 bytes).
+Output written on main.pdf (5 pages, 435966 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
