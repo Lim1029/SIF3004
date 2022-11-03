@@ -90,6 +90,39 @@ De~Zotti, G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gallagher%
+\ \BBA {} Hunter%
+}{%
+Gallagher%
+\ \BBA {} Hunter%
+}{%
+{\protect \APACyear {1984}}%
+}]{%
+Gallagher1984}
+\APACinsertmetastar {%
+Gallagher1984}%
+\begin{APACrefauthors}%
+Gallagher, J\BPBI S.%
+\BCBT {}\ \BBA {} Hunter, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1984}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structure and Evolution of Irregular Galaxies}
+  {Structure and evolution of irregular galaxies}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Annual Review of Astronomy and
+  Astrophysics}{22}{1}{37-74}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.annualreviews.org/doi/abs/10.1146/annurev.aa.22.090184.000345}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1146/annurev.aa.22.090184.000345} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Geach%
 \ \protect \BOthers {.}}{%
 Geach%
@@ -161,6 +194,38 @@ Phillips, T\BPBI G.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1007/978-94-007-5621-2_7} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rouan%
+, Tasca%
+, Soucail%
+\BCBL {}\ \BBA {} Le~Fèvre%
+}{%
+Rouan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+Rouan2008}
+\APACinsertmetastar {%
+Rouan2008}%
+\begin{APACrefauthors}%
+Rouan, D.%
+, Tasca, L.%
+, Soucail, G.%
+\BCBL {}\ \BBA {} Le~Fèvre, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A robust morphological classification of high-redshift
+  galaxies using support vector machines on seeing limited images-i. method
+  description} {A robust morphological classification of high-redshift galaxies
+  using support vector machines on seeing limited images-i. method
+  description}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Astronomy \& Astrophysics}{478}{3}{971-980}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
