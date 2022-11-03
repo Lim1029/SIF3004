@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex main"] 1667455864 "main.aux" "main.bbl" "main" 1667455867
+["bibtex main"] 1667462088 "main.aux" "main.bbl" "main" 1667462091
   "c:/texlive/2022/texmf-dist/bibtex/bst/apacite/apacite.bst" 1666667264 141073 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1667455866 5398 2fe70860c197cb7a4ef6b6293594ef58 "pdflatex"
+  "main.aux" 1667462090 5665 2d52ee56b7c83277a87dd8088a5a9975 "pdflatex"
   "sample.bib" 1667455185 15504 0e9c38ae965f3b706cccefc7eba6c3f5 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667455864 "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" "main.pdf" "main" 1667455867
+["pdflatex"] 1667462088 "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" "main.pdf" "main" 1667462091
   "Flowchart.png" 1667314778 7969 21aa3072ae68218900ec3614411e5adf ""
   "SED.png" 1667365041 61518 3399701df4699d3ba663e21a62e65b97 ""
   "SNDensity.png" 1667364464 21002 e65bd99c8af60163e9847b06681e1eb0 ""
-  "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" 1667455859 8197 d319bce1552ffd0087f3b00e406d6f28 ""
+  "c:/Users/Ming Kang/Desktop/SIF3004/main.tex" 1667462085 8367 66b919e168ec40b6e921dcfbf6d70196 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1666669450 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1666667176 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1666667176 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -100,10 +100,11 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1666675118 4648419 cd736d89bc726120ec8d74e8e9beb636 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1666675256 3058772 9f4bc1a894fabd85c9abc250dd2e7f82 ""
   "c:/texlive/2022/texmf.cnf" 1666675092 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1667455866 5398 2fe70860c197cb7a4ef6b6293594ef58 "pdflatex"
-  "main.bbl" 1667455864 7287 33aad34c831d09970553b205db01d344 "bibtex main"
-  "main.out" 1667455866 786 c84df4772aaa8d3eab94d575014d7780 "pdflatex"
-  "main.tex" 1667455859 8197 d319bce1552ffd0087f3b00e406d6f28 ""
+  "gantt chart.png" 1667461904 46256 3b97f821079d54dccd72d3a78856cc36 ""
+  "main.aux" 1667462090 5665 2d52ee56b7c83277a87dd8088a5a9975 "pdflatex"
+  "main.bbl" 1667462088 7287 33aad34c831d09970553b205db01d344 "bibtex main"
+  "main.out" 1667462090 887 d8c9fd9a608b6a064dc57592ff831bf8 "pdflatex"
+  "main.tex" 1667462085 8367 66b919e168ec40b6e921dcfbf6d70196 ""
   "reducevsunreduce.png" 1667351644 210679 59d206963fc626a022f67ddab0228d74 ""
   (generated)
   "main.aux"
