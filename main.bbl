@@ -1,6 +1,36 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Casey%
+, Narayanan%
+\BCBL {}\ \BBA {} Cooray%
+}{%
+Casey%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Casey2014}
+\APACinsertmetastar {%
+Casey2014}%
+\begin{APACrefauthors}%
+Casey, C\BPBI M.%
+, Narayanan, D.%
+\BCBL {}\ \BBA {} Cooray, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dusty star-forming galaxies at high redshift} {Dusty
+  star-forming galaxies at high redshift}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Physics Reports}{541}{2}{45-161}.
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.physrep.2014.02.009}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Da~Cunha%
 \ \protect \BOthers {.}}{%
 Da~Cunha%
@@ -94,6 +124,43 @@ Geach, J\BPBI E.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1093/mnras/stw2721} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Phillips%
+, Padin%
+\BCBL {}\ \BBA {} Zmuidzinas%
+}{%
+Phillips%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Phillips2013}
+\APACinsertmetastar {%
+Phillips2013}%
+\begin{APACrefauthors}%
+Phillips, T\BPBI G.%
+, Padin, S.%
+\BCBL {}\ \BBA {} Zmuidzinas, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Submillimeter Telescopes} {Submillimeter
+  telescopes}{\BBCQ}\ [Book Section].
+\newblock
+\BIn{} T\BPBI D.~Oswalt\ \BBA {} I\BPBI S.~McLean\ (\BEDS), \APACrefbtitle
+  {Planets, Stars and Stellar Systems: Volume 1: Telescopes and
+  Instrumentation} {Planets, stars and stellar systems: Volume 1: Telescopes
+  and instrumentation}\ (\BPG~283-313).
+\newblock
+\APACaddressPublisher{Dordrecht}{Springer Netherlands}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/978-94-007-5621-2_7}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-94-007-5621-2_7} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
