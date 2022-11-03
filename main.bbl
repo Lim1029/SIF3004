@@ -1,50 +1,186 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{DaCunha2021}
-E~Da~Cunha, JA~Hodge, CM~Casey, HSB Algera, M~Kaasinen, I~Smail, F~Walter,
-  WN~Brandt, H~Dannerbauer, and ROBERTO Decarli.
-\newblock Measurements of the dust properties in $(z\approx1–3)$
-  submillimeter galaxies with alma.
-\newblock {\em The Astrophysical Journal}, 919(1):30, 2021.
+\bibitem [\protect \citeauthoryear {%
+Da~Cunha%
+\ \protect \BOthers {.}}{%
+Da~Cunha%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+DaCunha2021}
+\APACinsertmetastar {%
+DaCunha2021}%
+\begin{APACrefauthors}%
+Da~Cunha, E.%
+, Hodge, J.%
+, Casey, C.%
+, Algera, H.%
+, Kaasinen, M.%
+, Smail, I.%
+\BDBL {}Decarli, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measurements of the Dust Properties in $(z\approx1–3)$
+  Submillimeter Galaxies with ALMA} {Measurements of the dust properties in
+  $(z\approx1–3)$ submillimeter galaxies with alma}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{The Astrophysical Journal}{919}{1}{30}.
+\PrintBackRefs{\CurrentBib}
 
-\bibitem{Zotti2018}
-Gianfranco De~Zotti, Matteo Bonato, and Zhen-Yi Cai.
-\newblock Star formation across cosmic time with radio surveys. the promise of
-  the ska.
-\newblock {\em arXiv preprint arXiv:1802.06561}, 2018.
+\bibitem [\protect \citeauthoryear {%
+De~Zotti%
+, Bonato%
+\BCBL {}\ \BBA {} Cai%
+}{%
+De~Zotti%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Zotti2018}
+\APACinsertmetastar {%
+Zotti2018}%
+\begin{APACrefauthors}%
+De~Zotti, G.%
+, Bonato, M.%
+\BCBL {}\ \BBA {} Cai, Z\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Star formation across cosmic time with radio surveys.
+  The promise of the SKA} {Star formation across cosmic time with radio
+  surveys. the promise of the ska}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1802.06561}{}{}{}.
+\PrintBackRefs{\CurrentBib}
 
-\bibitem{Geach2016}
-J.~E. Geach, J.~S. Dunlop, M.~Halpern, Ian Smail, P.~van~der Werf, D.~M.
-  Alexander, O.~Almaini, I.~Aretxaga, V.~Arumugam, V.~Asboth, M.~Banerji,
-  J.~Beanlands, P.~N. Best, A.~W. Blain, M.~Birkinshaw, E.~L. Chapin, S.~C.
-  Chapman, C-C. Chen, A.~Chrysostomou, C.~Clarke, D.~L. Clements, C.~Conselice,
-  K.~E.~K. Coppin, W.~I. Cowley, A.~L.~R. Danielson, S.~Eales, A.~C. Edge,
-  D.~Farrah, A.~Gibb, C.~M. Harrison, N.~K. Hine, D.~Hughes, R.~J. Ivison,
-  M.~Jarvis, T.~Jenness, S.~F. Jones, A.~Karim, M.~Koprowski, K.~K. Knudsen,
-  C.~G. Lacey, T.~Mackenzie, G.~Marsden, K.~McAlpine, R.~McMahon, R.~Meijerink,
-  M.~J. Michałowski, S.~J. Oliver, M.~J. Page, J.~A. Peacock, D.~Rigopoulou,
-  E.~I. Robson, I.~Roseboom, K.~Rotermund, Douglas Scott, S.~Serjeant,
-  C.~Simpson, J.~M. Simpson, D.~J.~B. Smith, M.~Spaans, F.~Stanley, J.~A.
-  Stevens, A.~M. Swinbank, T.~Targett, A.~P. Thomson, E.~Valiante, D.~A. Wake,
-  T.~M.~A. Webb, C.~Willott, J.~A. Zavala, and M.~Zemcov.
-\newblock The scuba-2 cosmology legacy survey: $850 \mu m maps$, catalogues
-  and number counts.
-\newblock {\em Monthly Notices of the Royal Astronomical Society},
-  465(2):1789--1806, 2016.
+\bibitem [\protect \citeauthoryear {%
+Geach%
+\ \protect \BOthers {.}}{%
+Geach%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Geach2016}
+\APACinsertmetastar {%
+Geach2016}%
+\begin{APACrefauthors}%
+Geach, J\BPBI E.%
+, Dunlop, J\BPBI S.%
+, Halpern, M.%
+, Smail, I.%
+, van~der Werf, P.%
+, Alexander, D\BPBI M.%
+\BDBL {}Zemcov, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The SCUBA-2 Cosmology Legacy Survey: $850 \mu m maps$,
+  catalogues and number counts} {The scuba-2 cosmology legacy survey: $850 \mu
+  m maps$, catalogues and number counts}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Monthly Notices of the Royal Astronomical
+  Society}{465}{2}{1789-1806}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1093/mnras/stw2721
+  https://watermark.silverchair.com/stw2721.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM0cHrIj0U1v3Gu4XDAgEQgIICjh9mAUGTabLvFtdeRIDZBOc-RgxGP7CgJBvjuf85FCU9pl1CzAZLTAOvifhaLMvr_byivUbhBMX5FWDKkifKlzykgcC4OpiDIIMLfgNpZzj2ca_of4eNSN1dwdVp4Avr-JHaXaABGoK3Z8XGnkareVM62CyAxPxy4x7dvll2NIoFRDdq3i08JFGJzqRe1gJASu4sjah7FORLFL9m0c99qZyG2Egw83WG6JAY0w8ECpShWBJATS23H1wNSEjtX0AsYvHaOF_y2I-8tjkqwjiCWtvWmJ4E4EMugWSn-ps5KUOvym2GJTkdZMniFBDXinZmwYbiYGigQAI-4uvIYqimIP1Zkb0a5NCwouYJg8wI-MO31ChM_Eh7AjEEt2yFHZ2G9yrk2dygVJzgOa9QX0Giwlw5g_SNHcDe9BD-4pZxSsJvGWFQTHKh4zd9Dr_4UsBYl-XBzG3Oa7WhVk8DHZ-1Ci55uBagx0V9SF0GEqXSaKdmK0Vmc_Iz48LzjYSxtNY1kcpbZL0NJtJ4A23DkBJUSp8ZVm5d7UR3niCbKcNGWy_tAE0gl-7w8OWQ4C3IHk12WHwDjf09qO2aIaxZUajXePUxDl4-imXsEILaxvpUCjmL18Mhq6HuPet2BmWvSxM4udOz0mhpo5giSrWMCr0NkIYMLJ7Uwx1aAAswgulAu1qBOWWLmha8juhOPsaoQDduS1Vm2TRk4JNmE5eNLBNhJuhv0jU5W_YBLHUimuHST3A1YNgBNloUG3GBzD0Zuv34bxjkHvLoU-twuB0sRR96rPgbmlftpAwE-3KmMJv93eTLiYWaiQoEaxTZ4fUMcWBEH6YJKu9xEOHJWURNadE7rrA0k7jIxihOufo15buTDA}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1093/mnras/stw2721} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem{Saxena2018}
-A~Saxena and HJA Rottgering.
-\newblock High-redshift radio galaxies at low radio frequencies.
-\newblock {\em arXiv preprint arXiv:1810.08119}, 2018.
+\bibitem [\protect \citeauthoryear {%
+Saxena%
+\ \BBA {} Rottgering%
+}{%
+Saxena%
+\ \BBA {} Rottgering%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Saxena2018}
+\APACinsertmetastar {%
+Saxena2018}%
+\begin{APACrefauthors}%
+Saxena, A.%
+\BCBT {}\ \BBA {} Rottgering, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {High-redshift radio galaxies at low radio frequencies}
+  {High-redshift radio galaxies at low radio frequencies}{\BBCQ}\ [Journal
+  Article].
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1810.08119}{}{}{}.
+\PrintBackRefs{\CurrentBib}
 
-\bibitem{Schreiber2020}
-Natascha M.~Förster Schreiber and Stijn Wuyts.
-\newblock Star-forming galaxies at cosmic noon.
-\newblock {\em Annual Review of Astronomy and Astrophysics}, 58(1):661--725,
-  2020.
+\bibitem [\protect \citeauthoryear {%
+Schreiber%
+\ \BBA {} Wuyts%
+}{%
+Schreiber%
+\ \BBA {} Wuyts%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Schreiber2020}
+\APACinsertmetastar {%
+Schreiber2020}%
+\begin{APACrefauthors}%
+Schreiber, N\BPBI M\BPBI F.%
+\BCBT {}\ \BBA {} Wuyts, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Star-Forming Galaxies at Cosmic Noon} {Star-forming
+  galaxies at cosmic noon}{\BBCQ}\ [Journal Article].
+\newblock
+\APACjournalVolNumPages{Annual Review of Astronomy and
+  Astrophysics}{58}{1}{661-725}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-032620-021910}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1146/annurev-astro-032620-021910} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
-\bibitem{Ragers2021}
-RAGERS Team.
-\newblock The radio galaxy environment reference survey, 2021.
+\bibitem [\protect \citeauthoryear {%
+Team%
+}{%
+Team%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Ragers2021}
+\APACinsertmetastar {%
+Ragers2021}%
+\begin{APACrefauthors}%
+Team, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {The RAdio Galaxy Environment Reference Survey.} {The radio
+  galaxy environment reference survey.}
+\newblock
+\APACaddressPublisher{}{East Asian Observatory}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.eaobservatory.org/jcmt/science/large-programs/ragers/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
