@@ -19,6 +19,100 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Blain2002}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d7c713bc743c68a26c0db6ce9cf42dfe}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d619e716a12f66180ef2882197a2c9c5}{%
+           family={Kneib},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=276b968faf7903cdea4ed852a829eef1}{%
+           family={Frayer},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fea0d328f973653f306a24b7b922851}
+      \strng{fullhash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{bibnamehash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{authorbibnamehash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{authornamehash}{9fea0d328f973653f306a24b7b922851}
+      \strng{authorfullhash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A cosmologically significant population of very luminous high-redshift galaxies has recently been discovered at submillimeter (submm) wavelengths. Advances in submm detector technologies have opened this new window on the distant Universe. Here we discuss the properties of the high-redshift submm galaxies, their significance for our understanding of the process of galaxy formation, and the selection effects that apply to deep submm surveys. The submm galaxies generate a significant fraction of the energy output of all the galaxies in the early Universe. We emphasize the importance of studying a complete sample of submm galaxies, and stress that because they are typically very faint in other wavebands, these follow-up observations are very challenging. Finally, we discuss the surveys that will be made using the next generation of submm-wave instruments under development.}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{2}
+      \field{title}{Submillimeter galaxies}
+      \field{type}{Journal Article}
+      \field{volume}{369}
+      \field{year}{2002}
+      \field{pages}{111\bibrangedash 176}
+      \range{pages}{66}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0370-1573(02)00134-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157302001345
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157302001345
+      \endverb
+      \keyw{Dust extinction Observational cosmology Galaxy evolution Galaxy formation Gravitational lensing Radio continuum}
+    \endentry
+    \entry{Buta2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e337c5075b69fe5792e25cfea787eef}{%
+           family={Buta},
+           familyi={B\bibinitperiod},
+           given={Ronald\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{fullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{bibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorbibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authornamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorfullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1102.0550}
+      \field{title}{Galaxy morphology}
+      \field{type}{Journal Article}
+      \field{year}{2011}
+    \endentry
     \entry{Casey2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba6f74d024521794d05c1ea77bfe91fa}{%
@@ -64,6 +158,66 @@
       \range{pages}{117}
       \verb{doi}
       \verb https://doi.org/10.1016/j.physrep.2014.02.009
+      \endverb
+    \endentry
+    \entry{Chapman2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=44718b6d1c25dde7586ad26864b5dd56}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783865ecede3266c77070e683f72c1a9}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{fullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{bibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authorbibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authornamehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{authorfullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have obtained spectroscopic redshifts using the Keck I telescope for a sample of 73 submillimeter galaxies (SMGs), with a median 850 μm flux density of 5.7 mJy, for which precise positions are available through their faint radio emission. The galaxies lie at redshifts out to z = 3.6, with a median redshift of 2.2 and an interquartile range z = 1.7-2.8. Modeling a purely submillimeter flux-limited sample, based on the expected selection function for our radio-identified sample, suggests a median redshift of 2.3, with a redshift distribution remarkably similar to the optically and radio-selected quasars. The observed redshift distributions are similar for the active galactic nucleus (AGN) and starburst subsamples. The median RAB is 24.6 for the sample. However, the dust-corrected ultraviolet (UV) luminosities of the galaxies rarely hint at the huge bolometric luminosities indicated by their radio/submillimeter emission, with the effect that the true luminosity can be underestimated by a median factor of ~120 for SMGs with pure starburst spectra. Radio and submillimeter observations are thus essential to select the most luminous high-redshift galaxies. The 850 μm, radio, and redshift data are used to estimate the dust temperatures and characterize photometric redshifts. Using 450 μm measurements for a subset of our sample, we confirm that a median dust temperature of Td = 36 ± 7 K, derived on the assumption that the local far-infrared (FIR)-radio correlation applies at high redshift, is reasonable. Individual 450 μm detections are consistent with the local radio-FIR relation holding at z ~ 2. This median Td is lower than that estimated for similarly luminous IRAS 60 μm galaxies locally. We demonstrate that dust temperature variations make it impossible to estimate redshifts for individual SGMs to better than Δz ≃ 1 using simple long-wavelength photometric methods. We calculate total infrared and bolometric luminosities (the median infrared luminosity estimated from the radio is 8.5 × 1012 L☉), construct a luminosity function, and quantify the strong evolution of the submillimeter population across z = 0.5-3.5 relative to local IRAS galaxies. We use the bolometric luminosities and UV-spectral classifications to determine a lower limit to the AGN content of the population and measure directly the varying the contribution of highly obscured, luminous galaxies to the luminosity density history of the universe for the first time. We conclude that bright submillimeter galaxies contribute a comparable star formation density to Lyman break galaxies at z = 2-3, and including galaxies below our submillimeter flux limit, this population may be the dominant site of massive star formation at this epoch. The rapid evolution of SMGs and QSO populations contrasts with that seen in bolometrically lower luminosity galaxy samples selected in the rest-frame UV and suggests a close link between SMGs and the formation and evolution of the galactic halos that host QSOs.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{number}{2}
+      \field{title}{A Redshift Survey of the Submillimeter Galaxy Population}
+      \field{type}{Journal Article}
+      \field{volume}{622}
+      \field{year}{2005}
+      \field{pages}{772}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/428082
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1086/428082 https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
       \endverb
     \endentry
     \entry{DaCunha2021}{article}{}
@@ -695,6 +849,32 @@
       \verb https://doi.org/10.1093/mnras/stw2721%20https://watermark.silverchair.com/stw2721.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM0cHrIj0U1v3Gu4XDAgEQgIICjh9mAUGTabLvFtdeRIDZBOc-RgxGP7CgJBvjuf85FCU9pl1CzAZLTAOvifhaLMvr_byivUbhBMX5FWDKkifKlzykgcC4OpiDIIMLfgNpZzj2ca_of4eNSN1dwdVp4Avr-JHaXaABGoK3Z8XGnkareVM62CyAxPxy4x7dvll2NIoFRDdq3i08JFGJzqRe1gJASu4sjah7FORLFL9m0c99qZyG2Egw83WG6JAY0w8ECpShWBJATS23H1wNSEjtX0AsYvHaOF_y2I-8tjkqwjiCWtvWmJ4E4EMugWSn-ps5KUOvym2GJTkdZMniFBDXinZmwYbiYGigQAI-4uvIYqimIP1Zkb0a5NCwouYJg8wI-MO31ChM_Eh7AjEEt2yFHZ2G9yrk2dygVJzgOa9QX0Giwlw5g_SNHcDe9BD-4pZxSsJvGWFQTHKh4zd9Dr_4UsBYl-XBzG3Oa7WhVk8DHZ-1Ci55uBagx0V9SF0GEqXSaKdmK0Vmc_Iz48LzjYSxtNY1kcpbZL0NJtJ4A23DkBJUSp8ZVm5d7UR3niCbKcNGWy_tAE0gl-7w8OWQ4C3IHk12WHwDjf09qO2aIaxZUajXePUxDl4-imXsEILaxvpUCjmL18Mhq6HuPet2BmWvSxM4udOz0mhpo5giSrWMCr0NkIYMLJ7Uwx1aAAswgulAu1qBOWWLmha8juhOPsaoQDduS1Vm2TRk4JNmE5eNLBNhJuhv0jU5W_YBLHUimuHST3A1YNgBNloUG3GBzD0Zuv34bxjkHvLoU-twuB0sRR96rPgbmlftpAwE-3KmMJv93eTLiYWaiQoEaxTZ4fUMcWBEH6YJKu9xEOHJWURNadE7rrA0k7jIxihOufo15buTDA
       \endverb
     \endentry
+    \entry{Greenslade2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18e843bf2aa7090c0ce87ea171e8c82e}{%
+           family={Greenslade},
+           familyi={G\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{fullhash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{bibnamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authorbibnamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authornamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authorfullhash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Nature and Evolution of High Redshift Dusty Star Forming Galaxies}
+      \field{type}{Thesis}
+      \field{year}{2018}
+    \endentry
     \entry{Phillips2013}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=878b16db962b67bfbae9d291458e36b2}{%
@@ -898,9 +1078,138 @@
       \verb https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-032620-021910
       \endverb
       \keyw{galaxy evolution,galaxy kinematics,galaxy structure,interstellar medium,star formation,stellar populations}
+    \endentry
+    \entry{ragers2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=040563a0fbc74886958ca2226eac0c19}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={RAGERS},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {East Asian Observatory}%
+      }
+      \strng{namehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{fullhash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{bibnamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authorbibnamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authornamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authorfullhash}{040563a0fbc74886958ca2226eac0c19}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{James Clerk Maxwell Telescope}
+      \field{title}{The RAdio Galaxy Environment Reference Survey}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
+      \verb{url}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Blain2002}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d7c713bc743c68a26c0db6ce9cf42dfe}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d619e716a12f66180ef2882197a2c9c5}{%
+           family={Kneib},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=276b968faf7903cdea4ed852a829eef1}{%
+           family={Frayer},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fea0d328f973653f306a24b7b922851}
+      \strng{fullhash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{bibnamehash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{authorbibnamehash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \strng{authornamehash}{9fea0d328f973653f306a24b7b922851}
+      \strng{authorfullhash}{8296dcf8dab7efebc9bd8c33b07e550d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A cosmologically significant population of very luminous high-redshift galaxies has recently been discovered at submillimeter (submm) wavelengths. Advances in submm detector technologies have opened this new window on the distant Universe. Here we discuss the properties of the high-redshift submm galaxies, their significance for our understanding of the process of galaxy formation, and the selection effects that apply to deep submm surveys. The submm galaxies generate a significant fraction of the energy output of all the galaxies in the early Universe. We emphasize the importance of studying a complete sample of submm galaxies, and stress that because they are typically very faint in other wavebands, these follow-up observations are very challenging. Finally, we discuss the surveys that will be made using the next generation of submm-wave instruments under development.}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{2}
+      \field{title}{Submillimeter galaxies}
+      \field{type}{Journal Article}
+      \field{volume}{369}
+      \field{year}{2002}
+      \field{pages}{111\bibrangedash 176}
+      \range{pages}{66}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0370-1573(02)00134-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157302001345
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0370157302001345
+      \endverb
+      \keyw{Dust extinction Observational cosmology Galaxy evolution Galaxy formation Gravitational lensing Radio continuum}
+    \endentry
+    \entry{Buta2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e337c5075b69fe5792e25cfea787eef}{%
+           family={Buta},
+           familyi={B\bibinitperiod},
+           given={Ronald\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{fullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{bibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorbibnamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authornamehash}{3e337c5075b69fe5792e25cfea787eef}
+      \strng{authorfullhash}{3e337c5075b69fe5792e25cfea787eef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1102.0550}
+      \field{title}{Galaxy morphology}
+      \field{type}{Journal Article}
+      \field{year}{2011}
+    \endentry
     \entry{Casey2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba6f74d024521794d05c1ea77bfe91fa}{%
@@ -946,6 +1255,66 @@
       \range{pages}{117}
       \verb{doi}
       \verb https://doi.org/10.1016/j.physrep.2014.02.009
+      \endverb
+    \endentry
+    \entry{Chapman2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=44718b6d1c25dde7586ad26864b5dd56}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783865ecede3266c77070e683f72c1a9}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{fullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{bibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authorbibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authornamehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{authorfullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have obtained spectroscopic redshifts using the Keck I telescope for a sample of 73 submillimeter galaxies (SMGs), with a median 850 μm flux density of 5.7 mJy, for which precise positions are available through their faint radio emission. The galaxies lie at redshifts out to z = 3.6, with a median redshift of 2.2 and an interquartile range z = 1.7-2.8. Modeling a purely submillimeter flux-limited sample, based on the expected selection function for our radio-identified sample, suggests a median redshift of 2.3, with a redshift distribution remarkably similar to the optically and radio-selected quasars. The observed redshift distributions are similar for the active galactic nucleus (AGN) and starburst subsamples. The median RAB is 24.6 for the sample. However, the dust-corrected ultraviolet (UV) luminosities of the galaxies rarely hint at the huge bolometric luminosities indicated by their radio/submillimeter emission, with the effect that the true luminosity can be underestimated by a median factor of ~120 for SMGs with pure starburst spectra. Radio and submillimeter observations are thus essential to select the most luminous high-redshift galaxies. The 850 μm, radio, and redshift data are used to estimate the dust temperatures and characterize photometric redshifts. Using 450 μm measurements for a subset of our sample, we confirm that a median dust temperature of Td = 36 ± 7 K, derived on the assumption that the local far-infrared (FIR)-radio correlation applies at high redshift, is reasonable. Individual 450 μm detections are consistent with the local radio-FIR relation holding at z ~ 2. This median Td is lower than that estimated for similarly luminous IRAS 60 μm galaxies locally. We demonstrate that dust temperature variations make it impossible to estimate redshifts for individual SGMs to better than Δz ≃ 1 using simple long-wavelength photometric methods. We calculate total infrared and bolometric luminosities (the median infrared luminosity estimated from the radio is 8.5 × 1012 L☉), construct a luminosity function, and quantify the strong evolution of the submillimeter population across z = 0.5-3.5 relative to local IRAS galaxies. We use the bolometric luminosities and UV-spectral classifications to determine a lower limit to the AGN content of the population and measure directly the varying the contribution of highly obscured, luminous galaxies to the luminosity density history of the universe for the first time. We conclude that bright submillimeter galaxies contribute a comparable star formation density to Lyman break galaxies at z = 2-3, and including galaxies below our submillimeter flux limit, this population may be the dominant site of massive star formation at this epoch. The rapid evolution of SMGs and QSO populations contrasts with that seen in bolometrically lower luminosity galaxy samples selected in the rest-frame UV and suggests a close link between SMGs and the formation and evolution of the galactic halos that host QSOs.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{number}{2}
+      \field{title}{A Redshift Survey of the Submillimeter Galaxy Population}
+      \field{type}{Journal Article}
+      \field{volume}{622}
+      \field{year}{2005}
+      \field{pages}{772}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/428082
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1086/428082 https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
       \endverb
     \endentry
     \entry{DaCunha2021}{article}{}
@@ -1577,6 +1946,32 @@
       \verb https://doi.org/10.1093/mnras/stw2721%20https://watermark.silverchair.com/stw2721.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM0cHrIj0U1v3Gu4XDAgEQgIICjh9mAUGTabLvFtdeRIDZBOc-RgxGP7CgJBvjuf85FCU9pl1CzAZLTAOvifhaLMvr_byivUbhBMX5FWDKkifKlzykgcC4OpiDIIMLfgNpZzj2ca_of4eNSN1dwdVp4Avr-JHaXaABGoK3Z8XGnkareVM62CyAxPxy4x7dvll2NIoFRDdq3i08JFGJzqRe1gJASu4sjah7FORLFL9m0c99qZyG2Egw83WG6JAY0w8ECpShWBJATS23H1wNSEjtX0AsYvHaOF_y2I-8tjkqwjiCWtvWmJ4E4EMugWSn-ps5KUOvym2GJTkdZMniFBDXinZmwYbiYGigQAI-4uvIYqimIP1Zkb0a5NCwouYJg8wI-MO31ChM_Eh7AjEEt2yFHZ2G9yrk2dygVJzgOa9QX0Giwlw5g_SNHcDe9BD-4pZxSsJvGWFQTHKh4zd9Dr_4UsBYl-XBzG3Oa7WhVk8DHZ-1Ci55uBagx0V9SF0GEqXSaKdmK0Vmc_Iz48LzjYSxtNY1kcpbZL0NJtJ4A23DkBJUSp8ZVm5d7UR3niCbKcNGWy_tAE0gl-7w8OWQ4C3IHk12WHwDjf09qO2aIaxZUajXePUxDl4-imXsEILaxvpUCjmL18Mhq6HuPet2BmWvSxM4udOz0mhpo5giSrWMCr0NkIYMLJ7Uwx1aAAswgulAu1qBOWWLmha8juhOPsaoQDduS1Vm2TRk4JNmE5eNLBNhJuhv0jU5W_YBLHUimuHST3A1YNgBNloUG3GBzD0Zuv34bxjkHvLoU-twuB0sRR96rPgbmlftpAwE-3KmMJv93eTLiYWaiQoEaxTZ4fUMcWBEH6YJKu9xEOHJWURNadE7rrA0k7jIxihOufo15buTDA
       \endverb
     \endentry
+    \entry{Greenslade2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18e843bf2aa7090c0ce87ea171e8c82e}{%
+           family={Greenslade},
+           familyi={G\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{fullhash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{bibnamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authorbibnamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authornamehash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \strng{authorfullhash}{18e843bf2aa7090c0ce87ea171e8c82e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Nature and Evolution of High Redshift Dusty Star Forming Galaxies}
+      \field{type}{Thesis}
+      \field{year}{2018}
+    \endentry
     \entry{Phillips2013}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=878b16db962b67bfbae9d291458e36b2}{%
@@ -1781,8 +2176,42 @@
       \endverb
       \keyw{galaxy evolution,galaxy kinematics,galaxy structure,interstellar medium,star formation,stellar populations}
     \endentry
+    \entry{ragers2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=040563a0fbc74886958ca2226eac0c19}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={RAGERS},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {East Asian Observatory}%
+      }
+      \strng{namehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{fullhash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{bibnamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authorbibnamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authornamehash}{040563a0fbc74886958ca2226eac0c19}
+      \strng{authorfullhash}{040563a0fbc74886958ca2226eac0c19}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{James Clerk Maxwell Telescope}
+      \field{title}{The RAdio Galaxy Environment Reference Survey}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
+      \verb{url}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
+    \endentry
   \enddatalist
-  \missing{Ragers2021}
 \endrefsection
 \endinput
 

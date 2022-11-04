@@ -1,10 +1,14 @@
 \documentclass{article}
+\usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
 \usepackage{amsmath}
 \usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{apacite,url}
+% \usepackage{hyperref}
+% \usepackage{apacite,url}
+\usepackage{csquotes}
+\usepackage[style=apa]{biblatex}
+\addbibresource{sample.bib}
 
 
 
@@ -15,13 +19,13 @@
 \maketitle
 \section{Problem Statement}
 
-At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 bllion years ago), the universe is actively producing new stars, with highest average star forming rates (SFRs). This period known as "the cosmic noon"\cite{Schreiber2020}. Galaxies known as "Dusty Star Forming Galaxies (DSFGs) are enriched with dust that serves as the materials to forming stars.
+At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 bllion years ago), the universe is actively producing new stars, with highest average star forming rates (SFRs). This period known as "the cosmic noon"\parencite{Schreiber2020}. Galaxies known as "Dusty Star Forming Galaxies (DSFGs) are enriched with dust that serves as the materials to forming stars.
 \medskip
 
-\noindent A comprehensive understanding of those galaxies is important in understanding galaxy formation and evolution in the early universe.\cite{Geach2016}
+\noindent A comprehensive understanding of those galaxies is important in understanding galaxy formation and evolution in the early universe.\textcite{Geach2016}
 \medskip
 
-\noindent Characterisation of the region where the aforementioned galaxies reside (galaxy overdensities) with redshift, and the effect of Active Galatic Nuclei (AGN) activity on the growth of the central overdensities are to this day still not thorough.\cite{Ragers2021}
+\noindent Characterisation of the region where the aforementioned galaxies reside (galaxy overdensities) with redshift, and the effect of Active Galatic Nuclei (AGN) activity on the growth of the central overdensities are to this day still not thorough.\parencite{Ragers2021}
 \medskip
 
 \noindent Obscured by dust, those galaxies are not feasible to be observed in visible region, a telescope capable in observing in far infrared wavelength is needed to detect the galaxies.
@@ -40,16 +44,16 @@ At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 
     \item To obtain photometric redshift of submm galaxies in a source field using multiwavelength analysis.
 \end{enumerate}
 \section{Background}
-Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals. It is oversimplified with the discovery, although not abundant, of irregular galaxies \cite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \cite{Rouan2008}. Galaxies are then categorised based on wavelength of energetic emission. For instances radio galaxies emit relatively high radio frequency than its optical counterpart. Likewise, submillimetre galaxies emit strong electromagnetic wave at submillimetre region.
+Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals. It is oversimplified with the discovery, although not abundant, of irregular galaxies \parencite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \parencite{Rouan2008}. Galaxies are then categorised based on wavelength of energetic emission. For instances radio galaxies emit relatively high radio frequency than its optical counterpart. Likewise, submillimetre galaxies emit strong electromagnetic wave at submillimetre region.
 \medskip
 
-\noindent Submillimetre Galaxies (SMGs) are rare galaxies with high star formation rates $(>100M_\odot yr^{-1})$ \cite{DaCunha2021} populated in high redshift region. Suspected to be the progenitors of local massive galaxies \cite{Casey2014}, SMGs are valuable candidates to study evolution of galaxies in high redshift. One challenge in observing SMGs is the amount of dust, which serves as the building blocks for star formation, which obscure visible light, thus are hard to be observed with optical telescopes. However, the dust absorbs the radiation emitted from new stars and reemmits as far infrared wavelength \cite{Casey2014}, the observation of SMGs is possible with submillimetre telecopes. 
+\noindent Submillimetre Galaxies (SMGs) are rare galaxies with high star formation rates $(>100M_\odot yr^{-1})$ \parencite{DaCunha2021} populated in high redshift region. Suspected to be the progenitors of local massive galaxies \parencite{Casey2014}, SMGs are valuable candidates to study evolution of galaxies in high redshift. One challenge in observing SMGs is the amount of dust, which serves as the building blocks for star formation, which obscure visible light, thus are hard to be observed with optical telescopes. However, the dust absorbs the radiation emitted from new stars and reemmits as far infrared wavelength \parencite{Casey2014}, the observation of SMGs is possible with submillimetre telecopes. 
 \medskip
 
-\noindent To solve the aforementioned issue, there have been telescopes operating at far infrared. For instances the Atacama Large Millimeter Array (ALMA) telesope located in northern Chile, Fred Young Submillimeter Telescope, Caltech Submillimeter Observatory (CSO), William Herschel Telescope (WHT)\cite{Phillips2013} and SCUBA-2 at James Clerk Maxwell Telescope (JCMT), whose data is used in the research of this proposal. They are built at high attitude, usually on top of the mountains (eg. JCMT at Mauna Kea, Hawaii(~4092m)) to minimize the attenuation of incoming signal by the Earth atmosphere.\cite{Phillips2013}
+\noindent To solve the aforementioned issue, there have been telescopes operating at far infrared. For instances the Atacama Large Millimeter Array (ALMA) telesope located in northern Chile, Fred Young Submillimeter Telescope, Caltech Submillimeter Observatory (CSO), William Herschel Telescope (WHT)\parencite{Phillips2013} and SCUBA-2 at James Clerk Maxwell Telescope (JCMT), whose data is used in the research of this proposal. They are built at high attitude, usually on top of the mountains (eg. JCMT at Mauna Kea, Hawaii(~4092m)) to minimize the attenuation of incoming signal by the Earth atmosphere.\parencite{Phillips2013}
 \medskip
 
-\noindent Overdensities are regions in space where the density of matter is relatively higher than others. Examples are galaxy clusters and proto-clusters. Astronomical events such as mergers of galaxies usually happen in overdensities region. Also resides giant, powerful galaxies in aforestated region. At $z>1$, High redshift radio galaxies (HzRG) are usually in the region of overdensities where SMGs are. The dynamic between SMGs and HzRGs can be studied so have a more robust understanding of evolution of masive structure of the universe.\cite{Saxena2018}
+\noindent Overdensities are regions in space where the density of matter is relatively higher than others. Examples are galaxy clusters and proto-clusters. Astronomical events such as mergers of galaxies usually happen in overdensities region. Also resides giant, powerful galaxies in aforestated region. At $z>1$, High redshift radio galaxies (HzRG) are usually in the region of overdensities where SMGs are. The dynamic between SMGs and HzRGs can be studied so have a more robust understanding of evolution of masive structure of the universe.\parencite{Saxena2018}
 
 \section{Research Methodology}
 
@@ -59,10 +63,10 @@ The research will be carried out on handling raw 0.85mm and 0.45mm data collecte
 \noindent James Clerk Maxwell Telescope (JCMT)is a 15m telesope designed to run on submillimetre wavelength (far infrared region). It is positioned at Maunakea, Hawaii.
 \medskip
 
-\noindent SCUBA-2 is a camera attached on JCMT to observe at 450$\mu m$ and 850$\mu m$ (~666GHz and 353GHz), which are frequencies emitted by light molecules containing hydrogen (eg. $H_2O,CH$) from the dust \cite{Phillips2013}. The data is formatted and stored in .sdf format, which is readable by starlink software.
+\noindent SCUBA-2 is a camera attached on JCMT to observe at 450$\mu m$ and 850$\mu m$ (~666GHz and 353GHz), which are frequencies emitted by light molecules containing hydrogen (eg. $H_2O,CH$) from the dust \parencite{Phillips2013}. The data is formatted and stored in .sdf format, which is readable by starlink software.
 \medskip
 
-\noindent The RAdio Galaxy Environment Reference Survey is a JCMT program to observe overdensities within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ \cite{Ragers2021}
+\noindent The RAdio Galaxy Environment Reference Survey is a JCMT program to observe overdensities within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ \parencite{Ragers2021}
 \medskip
 
 \noindent Source field is a region spanning across few Mpc centered around a HzRG, which is located at $1 < z < 3.5$ 
@@ -102,7 +106,7 @@ The research will be carried out on handling raw 0.85mm and 0.45mm data collecte
 \end{figure}
 
 \section{Expected Results}
-A reduced, low noise data similar to figure \ref{fig:reducevsunreduce}b should be obtained. From the reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Figure \ref{fig:sndensity} shows one example of graph of surface number density of cluster galaxies vs distance from a cluster center. A Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift. An example of the stated graph is shown in figure \ref{fig:sedgraph}, obtained from article \cite{Zotti2018}
+A reduced, low noise data similar to figure \ref{fig:reducevsunreduce}b should be obtained. From the reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Figure \ref{fig:sndensity} shows one example of graph of surface number density of cluster galaxies vs distance from a cluster center. A Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift. An example of the stated graph is shown in figure \ref{fig:sedgraph}, obtained from article \parencite{Zotti2018}
 
 \section{Significance}
 Surface number density is essential in studying the effect of HzRG on the environment. The addition of 0.85mm and 0.45mm in SED will give a more accurate photometric redshift of galaxies, which is crucial to study the evolution of galaxies with redshift. More comprehensive data of proto-cluster dynamic will probe into a more robust understanding of galaxies structure evolution.
@@ -115,7 +119,6 @@ Surface number density is essential in studying the effect of HzRG on the enviro
     \label{fig:ganttchart}
 \end{figure}
 
-\bibliographystyle{apacite}
-\bibliography{sample}
+\printbibliography
 
 \end{document}

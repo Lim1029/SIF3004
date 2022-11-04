@@ -1,56 +1,22 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-The style file: apacite.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: sample.bib
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 10 entries,
-            6951 wiz_defined-function locations,
-            1354 strings with 15276 characters,
-and the built_in function-call counts, 20812 in all, are:
-= -- 2523
-> -- 195
-< -- 940
-+ -- 1044
-- -- 20
-* -- 1400
-:= -- 3703
-add.period$ -- 41
-call.type$ -- 10
-change.case$ -- 171
-chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 640
-empty$ -- 848
-format.name$ -- 345
-if$ -- 3922
-int.to.chr$ -- 0
-int.to.str$ -- 30
-missing$ -- 0
-newline$ -- 284
-num.names$ -- 82
-pop$ -- 299
-preamble$ -- 1
-purify$ -- 40
-quote$ -- 0
-skip$ -- 1303
-stack$ -- 0
-substring$ -- 1160
-swap$ -- 419
-text.length$ -- 27
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 864
-warning$ -- 0
-while$ -- 119
-width$ -- 0
-write$ -- 361
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'main.blg'
+[118] biber-MSWIN64:340> INFO - === 
+[158] Biber.pm:418> INFO - Reading 'main.bcf'
+[294] Biber.pm:978> INFO - Found 10 citekeys in bib section 0
+[316] Biber.pm:4401> INFO - Processing section 0
+[329] Biber.pm:4592> INFO - Looking for bibtex file 'sample.bib' for section 0
+[389] bibtex.pm:1713> INFO - LaTeX decoding ...
+[426] bibtex.pm:1518> INFO - Found BibTeX data source 'sample.bib'
+[622] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[623] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[623] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[624] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[661] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[661] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[662] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[662] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[684] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[804] bbl.pm:757> INFO - Output to main.bbl
+[804] Biber.pm:130> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Ragers2021' and 'ragers2021' in file 'sample.bib'
+[805] Biber.pm:130> WARN - I didn't find a database entry for 'Ragers2021' (section 0)
+[805] Biber.pm:132> INFO - WARNINGS: 2

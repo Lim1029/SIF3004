@@ -1,0 +1,4 @@
+PWD C:\Users\Ming Kang\Desktop\SIF3004
+INPUT C:\Users\Ming Kang\AppData\Local\MiKTeX\miktex\data\le\pdftex\latex.fmt
+INPUT flowchart.tex
+OUTPUT flowchart.log
