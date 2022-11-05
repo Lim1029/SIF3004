@@ -66,6 +66,66 @@
       \verb https://doi.org/10.1016/j.physrep.2014.02.009
       \endverb
     \endentry
+    \entry{Chapman2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=44718b6d1c25dde7586ad26864b5dd56}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783865ecede3266c77070e683f72c1a9}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{fullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{bibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authorbibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authornamehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{authorfullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have obtained spectroscopic redshifts using the Keck I telescope for a sample of 73 submillimeter galaxies (SMGs), with a median 850 μm flux density of 5.7 mJy, for which precise positions are available through their faint radio emission. The galaxies lie at redshifts out to z = 3.6, with a median redshift of 2.2 and an interquartile range z = 1.7-2.8. Modeling a purely submillimeter flux-limited sample, based on the expected selection function for our radio-identified sample, suggests a median redshift of 2.3, with a redshift distribution remarkably similar to the optically and radio-selected quasars. The observed redshift distributions are similar for the active galactic nucleus (AGN) and starburst subsamples. The median RAB is 24.6 for the sample. However, the dust-corrected ultraviolet (UV) luminosities of the galaxies rarely hint at the huge bolometric luminosities indicated by their radio/submillimeter emission, with the effect that the true luminosity can be underestimated by a median factor of ~120 for SMGs with pure starburst spectra. Radio and submillimeter observations are thus essential to select the most luminous high-redshift galaxies. The 850 μm, radio, and redshift data are used to estimate the dust temperatures and characterize photometric redshifts. Using 450 μm measurements for a subset of our sample, we confirm that a median dust temperature of Td = 36 ± 7 K, derived on the assumption that the local far-infrared (FIR)-radio correlation applies at high redshift, is reasonable. Individual 450 μm detections are consistent with the local radio-FIR relation holding at z ~ 2. This median Td is lower than that estimated for similarly luminous IRAS 60 μm galaxies locally. We demonstrate that dust temperature variations make it impossible to estimate redshifts for individual SGMs to better than Δz ≃ 1 using simple long-wavelength photometric methods. We calculate total infrared and bolometric luminosities (the median infrared luminosity estimated from the radio is 8.5 × 1012 L☉), construct a luminosity function, and quantify the strong evolution of the submillimeter population across z = 0.5-3.5 relative to local IRAS galaxies. We use the bolometric luminosities and UV-spectral classifications to determine a lower limit to the AGN content of the population and measure directly the varying the contribution of highly obscured, luminous galaxies to the luminosity density history of the universe for the first time. We conclude that bright submillimeter galaxies contribute a comparable star formation density to Lyman break galaxies at z = 2-3, and including galaxies below our submillimeter flux limit, this population may be the dominant site of massive star formation at this epoch. The rapid evolution of SMGs and QSO populations contrasts with that seen in bolometrically lower luminosity galaxy samples selected in the rest-frame UV and suggests a close link between SMGs and the formation and evolution of the galactic halos that host QSOs.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{number}{2}
+      \field{title}{A Redshift Survey of the Submillimeter Galaxy Population}
+      \field{type}{Journal Article}
+      \field{volume}{622}
+      \field{year}{2005}
+      \field{pages}{772}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/428082
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1086/428082 https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+    \endentry
     \entry{DaCunha2021}{article}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=6e9c5cc94e279ba51c1caef94d128379}{%
@@ -695,6 +755,305 @@
       \verb https://doi.org/10.1093/mnras/stw2721%20https://watermark.silverchair.com/stw2721.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM0cHrIj0U1v3Gu4XDAgEQgIICjh9mAUGTabLvFtdeRIDZBOc-RgxGP7CgJBvjuf85FCU9pl1CzAZLTAOvifhaLMvr_byivUbhBMX5FWDKkifKlzykgcC4OpiDIIMLfgNpZzj2ca_of4eNSN1dwdVp4Avr-JHaXaABGoK3Z8XGnkareVM62CyAxPxy4x7dvll2NIoFRDdq3i08JFGJzqRe1gJASu4sjah7FORLFL9m0c99qZyG2Egw83WG6JAY0w8ECpShWBJATS23H1wNSEjtX0AsYvHaOF_y2I-8tjkqwjiCWtvWmJ4E4EMugWSn-ps5KUOvym2GJTkdZMniFBDXinZmwYbiYGigQAI-4uvIYqimIP1Zkb0a5NCwouYJg8wI-MO31ChM_Eh7AjEEt2yFHZ2G9yrk2dygVJzgOa9QX0Giwlw5g_SNHcDe9BD-4pZxSsJvGWFQTHKh4zd9Dr_4UsBYl-XBzG3Oa7WhVk8DHZ-1Ci55uBagx0V9SF0GEqXSaKdmK0Vmc_Iz48LzjYSxtNY1kcpbZL0NJtJ4A23DkBJUSp8ZVm5d7UR3niCbKcNGWy_tAE0gl-7w8OWQ4C3IHk12WHwDjf09qO2aIaxZUajXePUxDl4-imXsEILaxvpUCjmL18Mhq6HuPet2BmWvSxM4udOz0mhpo5giSrWMCr0NkIYMLJ7Uwx1aAAswgulAu1qBOWWLmha8juhOPsaoQDduS1Vm2TRk4JNmE5eNLBNhJuhv0jU5W_YBLHUimuHST3A1YNgBNloUG3GBzD0Zuv34bxjkHvLoU-twuB0sRR96rPgbmlftpAwE-3KmMJv93eTLiYWaiQoEaxTZ4fUMcWBEH6YJKu9xEOHJWURNadE7rrA0k7jIxihOufo15buTDA
       \endverb
     \endentry
+    \entry{Jiang2021}{article}{}
+      \name{author}{12}{}{%
+        {{un=0,uniquepart=base,hash=30cb736cd0f638438f1a7e87b5eb8dfa}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Linhua},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd481ab1d80f3156d28839e06a6b235}{%
+           family={Kashikawa},
+           familyi={K\bibinitperiod},
+           given={Nobunari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4914ed000e76ff5797f091ad4da80f08}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad2b237bfee460f5431f01b7a0cce933}{%
+           family={Walth},
+           familyi={W\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07a19d3ca13fe64ecc1b833e4ff0d358}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Luis\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aad981708c41165f42d6d48575813da1}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fff659e540ca1b644d446137b50118}{%
+           family={Egami},
+           familyi={E\bibinitperiod},
+           given={Eiichi},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a89d74a0dcb18ac2a97e9dbd0d861568}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=961ffd271dddbdf7236fe373b6f92799}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Kei},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48cbfb9809b50f76ea9552237eadf64c}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yongming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3886bd1e038dd347123031184314a04a}{%
+           family={Schaerer},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be8bbedd73fe781f4e7bf210e5ee4399}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84e679853540976de68ddc459239c44c}
+      \strng{fullhash}{84d28620cf75aa21d16b162b13972499}
+      \strng{bibnamehash}{84d28620cf75aa21d16b162b13972499}
+      \strng{authorbibnamehash}{84d28620cf75aa21d16b162b13972499}
+      \strng{authornamehash}{84e679853540976de68ddc459239c44c}
+      \strng{authorfullhash}{84d28620cf75aa21d16b162b13972499}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2397-3366}
+      \field{journaltitle}{Nature Astronomy}
+      \field{number}{3}
+      \field{title}{Evidence for GN-z11 as a luminous galaxy at redshift 10.957}
+      \field{type}{Journal Article}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{256\bibrangedash 261}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41550-020-01275-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41550-020-01275-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41550-020-01275-y
+      \endverb
+    \endentry
+    \entry{Martin2005}{article}{}
+      \name{author}{26}{}{%
+        {{un=0,uniquepart=base,hash=e5c923d75cb9d2c5a64179e61f1a6929}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi Christopher},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0701ce7f7f93341a7a59f0650b95dc97}{%
+           family={Fanson},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf146d5eae9bb3783cd2d8083f6ec05}{%
+           family={Schiminovich},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d782eb559f8afcf9a2b57b1a4427b4d0}{%
+           family={Morrissey},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d45ef977afe620198db2b5d94f5bd4a}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e7e9c763c7e0113a91ad7b34c32c642}{%
+           family={Barlow},
+           familyi={B\bibinitperiod},
+           given={Tom\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbbad58a884e822d787b8539402002b0}{%
+           family={Conrow},
+           familyi={C\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c394959e80fe1de1b33b21478738ed13}{%
+           family={Grange},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7a90110462dab3465bd2666682d3f32}{%
+           family={Jelinsky},
+           familyi={J\bibinitperiod},
+           given={Patrick\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2ac865e072a5355c74551f55797df00}{%
+           family={Milliard},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47512323d299a00832d1ab73343c08c5}{%
+           family={Siegmund},
+           familyi={S\bibinitperiod},
+           given={Oswald\bibnamedelimb H.\bibnamedelimi W.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ef73fe7a68dc5f761230bc189a57949}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Luciana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d455572af37bc6b0fb3957200370990d}{%
+           family={Byun},
+           familyi={B\bibinitperiod},
+           given={Yong-Ik},
+           giveni={Y\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d444575e1e28b097671d91de3c3cbf68}{%
+           family={Donas},
+           familyi={D\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59c385fd97d2834ffc62cdf2c4b6d483}{%
+           family={Forster},
+           familyi={F\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e094272379fe55727159944b950738c}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53ae57eb06881a269f0fb049300afd8c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Young-Wook},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e793734301eab7b3f4cb6633a1a59d4b}{%
+           family={Madore},
+           familyi={M\bibinitperiod},
+           given={Barry\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e52ded3bc9f19961c26aa10a37c4c4a}{%
+           family={Malina},
+           familyi={M\bibinitperiod},
+           given={Roger\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e916367e2dfaaaef52d7d09278135273}{%
+           family={Neff},
+           familyi={N\bibinitperiod},
+           given={Susan\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f0dcd7c7e3ccafd025d2e35a9c06b9b}{%
+           family={Rich},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Michael},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b706a80072acd45383143961e69dc967}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0255b3440c23a27a3f17ec09d3ca2661}{%
+           family={Surber},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26d5487049d89af076bd57118933e0fe}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alex\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=150c0fe9bb19f6d5f8dea35465ae158b}{%
+           family={Welsh},
+           familyi={W\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52e7bf668aebf5f42297d85b49f7e47e}{%
+           family={Wyder},
+           familyi={W\bibinitperiod},
+           given={Ted\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{817bd616759944dcaab5ed5176d72972}
+      \strng{fullhash}{e26b981c8a57a841a9af7f35554667c1}
+      \strng{bibnamehash}{c98b439a714971997d9a0d157d89a651}
+      \strng{authorbibnamehash}{c98b439a714971997d9a0d157d89a651}
+      \strng{authornamehash}{817bd616759944dcaab5ed5176d72972}
+      \strng{authorfullhash}{e26b981c8a57a841a9af7f35554667c1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We give an overview of the Galaxy Evolution Explorer (GALEX), a NASA Explorer Mission launched on 2003 April 28. GALEX is performing the first space UV sky survey, including imaging and grism surveys in two bands (1350-1750 and 1750-2750 Å). The surveys include an all-sky imaging survey (m<SUB>AB</SUB>~=20.5), a medium imaging survey of 1000 deg<SUP>2</SUP> (m<SUB>AB</SUB>~=23), a deep imaging survey of 100 deg<SUP>2</SUP> (m<SUB>AB</SUB>~=25), and a nearby galaxy survey. Spectroscopic (slitless) grism surveys (R=100-200) are underway with various depths and sky coverage. Many targets overlap existing or planned surveys in other bands. We will use the measured UV properties of local galaxies, along with corollary observations, to calibrate the relationship of the UV and global star formation rate in local galaxies. We will apply this calibration to distant galaxies discovered in the deep imaging and spectroscopic surveys to map the history of star formation in the universe over the redshift range 0<z<2 and probe the physical drivers of star formation in galaxies. The GALEX mission includes a guest investigator program, supporting the wide variety of programs made possible by the first UV sky survey.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{title}{The Galaxy Evolution Explorer: A Space Ultraviolet Survey Mission}
+      \field{type}{Journal Article}
+      \field{volume}{619}
+      \field{year}{2005}
+      \field{pages}{L1\bibrangedash L6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1086/426387
+      \endverb
+      \verb{urlraw}
+      \verb https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M
+      \endverb
+      \verb{url}
+      \verb https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M
+      \endverb
+      \keyw{Galaxies: Evolution Galaxies: General Space Vehicles: Instruments Surveys Ultraviolet: Galaxies Ultraviolet: General Astrophysics}
+    \endentry
     \entry{Phillips2013}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=878b16db962b67bfbae9d291458e36b2}{%
@@ -766,6 +1125,38 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-94-007-5621-2_7
+      \endverb
+    \endentry
+    \entry{ragers2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89da45470c6792b01eb4366bf43b0af8}{%
+           family={RAGERSTeam},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {East Asian Observatory}%
+      }
+      \strng{namehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{fullhash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{bibnamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authorbibnamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authornamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authorfullhash}{89da45470c6792b01eb4366bf43b0af8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{James Clerk Maxwell Telescope}
+      \field{title}{The RAdio Galaxy Environment Reference Survey}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
+      \verb{url}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
       \endverb
     \endentry
     \entry{Rouan2008}{article}{}
@@ -898,6 +1289,69 @@
       \verb https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-032620-021910
       \endverb
       \keyw{galaxy evolution,galaxy kinematics,galaxy structure,interstellar medium,star formation,stellar populations}
+    \endentry
+    \entry{Singh2014}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=dfc1f2dbd18467ea45915d000895064e}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Veeresh},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2edf8116af34c10dca8436018222e571}{%
+           family={Beelen},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d487ff5a3dc784500cac2375c559bd1e}{%
+           family={Wadadekar},
+           familyi={W\bibinitperiod},
+           given={Yogesh},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e65d94a752b2e4d494160d6045818415}{%
+           family={Sirothia},
+           familyi={S\bibinitperiod},
+           given={Sandeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bac3130419585a6912f1d99f64f5630b}{%
+           family={Basu},
+           familyi={B\bibinitperiod},
+           given={Aritra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b88410366b2dbda62ea1ddc7b4747a}{%
+           family={Omont},
+           familyi={O\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a78d47bc0f81fdceb0851fd8c589cbc5}{%
+           family={McAlpine},
+           familyi={M\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a3a99f4ea76bc7aeb47642237bd9e35}
+      \strng{fullhash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{bibnamehash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{authorbibnamehash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{authornamehash}{6a3a99f4ea76bc7aeb47642237bd9e35}
+      \strng{authorfullhash}{6f8b0e7e6834542b207b09b964a8decb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1402.3996}
+      \field{title}{Unveiling the population of high-redshift radio galaxies using centimeter GMRT survey}
+      \field{type}{Journal Article}
+      \field{year}{2014}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -948,6 +1402,66 @@
       \verb https://doi.org/10.1016/j.physrep.2014.02.009
       \endverb
     \endentry
+    \entry{Chapman2005}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=44718b6d1c25dde7586ad26864b5dd56}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783865ecede3266c77070e683f72c1a9}{%
+           family={Blain},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1c31b5ed355e3c314a442d860cdc54c}{%
+           family={Smail},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a601c6441b4a5bda69ac46fcb736f04b}{%
+           family={Ivison},
+           familyi={I\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{fullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{bibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authorbibnamehash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \strng{authornamehash}{e9aca30efe5a7ea7099583d3f3b6fa42}
+      \strng{authorfullhash}{5d41fc9ec188a19abc94ae6ea82df75f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have obtained spectroscopic redshifts using the Keck I telescope for a sample of 73 submillimeter galaxies (SMGs), with a median 850 μm flux density of 5.7 mJy, for which precise positions are available through their faint radio emission. The galaxies lie at redshifts out to z = 3.6, with a median redshift of 2.2 and an interquartile range z = 1.7-2.8. Modeling a purely submillimeter flux-limited sample, based on the expected selection function for our radio-identified sample, suggests a median redshift of 2.3, with a redshift distribution remarkably similar to the optically and radio-selected quasars. The observed redshift distributions are similar for the active galactic nucleus (AGN) and starburst subsamples. The median RAB is 24.6 for the sample. However, the dust-corrected ultraviolet (UV) luminosities of the galaxies rarely hint at the huge bolometric luminosities indicated by their radio/submillimeter emission, with the effect that the true luminosity can be underestimated by a median factor of ~120 for SMGs with pure starburst spectra. Radio and submillimeter observations are thus essential to select the most luminous high-redshift galaxies. The 850 μm, radio, and redshift data are used to estimate the dust temperatures and characterize photometric redshifts. Using 450 μm measurements for a subset of our sample, we confirm that a median dust temperature of Td = 36 ± 7 K, derived on the assumption that the local far-infrared (FIR)-radio correlation applies at high redshift, is reasonable. Individual 450 μm detections are consistent with the local radio-FIR relation holding at z ~ 2. This median Td is lower than that estimated for similarly luminous IRAS 60 μm galaxies locally. We demonstrate that dust temperature variations make it impossible to estimate redshifts for individual SGMs to better than Δz ≃ 1 using simple long-wavelength photometric methods. We calculate total infrared and bolometric luminosities (the median infrared luminosity estimated from the radio is 8.5 × 1012 L☉), construct a luminosity function, and quantify the strong evolution of the submillimeter population across z = 0.5-3.5 relative to local IRAS galaxies. We use the bolometric luminosities and UV-spectral classifications to determine a lower limit to the AGN content of the population and measure directly the varying the contribution of highly obscured, luminous galaxies to the luminosity density history of the universe for the first time. We conclude that bright submillimeter galaxies contribute a comparable star formation density to Lyman break galaxies at z = 2-3, and including galaxies below our submillimeter flux limit, this population may be the dominant site of massive star formation at this epoch. The rapid evolution of SMGs and QSO populations contrasts with that seen in bolometrically lower luminosity galaxy samples selected in the rest-frame UV and suggests a close link between SMGs and the formation and evolution of the galactic halos that host QSOs.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{number}{2}
+      \field{title}{A Redshift Survey of the Submillimeter Galaxy Population}
+      \field{type}{Journal Article}
+      \field{volume}{622}
+      \field{year}{2005}
+      \field{pages}{772}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/428082
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1086/428082 https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+    \endentry
     \entry{DaCunha2021}{article}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=6e9c5cc94e279ba51c1caef94d128379}{%
@@ -1577,6 +2091,305 @@
       \verb https://doi.org/10.1093/mnras/stw2721%20https://watermark.silverchair.com/stw2721.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtswggLXBgkqhkiG9w0BBwagggLIMIICxAIBADCCAr0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM0cHrIj0U1v3Gu4XDAgEQgIICjh9mAUGTabLvFtdeRIDZBOc-RgxGP7CgJBvjuf85FCU9pl1CzAZLTAOvifhaLMvr_byivUbhBMX5FWDKkifKlzykgcC4OpiDIIMLfgNpZzj2ca_of4eNSN1dwdVp4Avr-JHaXaABGoK3Z8XGnkareVM62CyAxPxy4x7dvll2NIoFRDdq3i08JFGJzqRe1gJASu4sjah7FORLFL9m0c99qZyG2Egw83WG6JAY0w8ECpShWBJATS23H1wNSEjtX0AsYvHaOF_y2I-8tjkqwjiCWtvWmJ4E4EMugWSn-ps5KUOvym2GJTkdZMniFBDXinZmwYbiYGigQAI-4uvIYqimIP1Zkb0a5NCwouYJg8wI-MO31ChM_Eh7AjEEt2yFHZ2G9yrk2dygVJzgOa9QX0Giwlw5g_SNHcDe9BD-4pZxSsJvGWFQTHKh4zd9Dr_4UsBYl-XBzG3Oa7WhVk8DHZ-1Ci55uBagx0V9SF0GEqXSaKdmK0Vmc_Iz48LzjYSxtNY1kcpbZL0NJtJ4A23DkBJUSp8ZVm5d7UR3niCbKcNGWy_tAE0gl-7w8OWQ4C3IHk12WHwDjf09qO2aIaxZUajXePUxDl4-imXsEILaxvpUCjmL18Mhq6HuPet2BmWvSxM4udOz0mhpo5giSrWMCr0NkIYMLJ7Uwx1aAAswgulAu1qBOWWLmha8juhOPsaoQDduS1Vm2TRk4JNmE5eNLBNhJuhv0jU5W_YBLHUimuHST3A1YNgBNloUG3GBzD0Zuv34bxjkHvLoU-twuB0sRR96rPgbmlftpAwE-3KmMJv93eTLiYWaiQoEaxTZ4fUMcWBEH6YJKu9xEOHJWURNadE7rrA0k7jIxihOufo15buTDA
       \endverb
     \endentry
+    \entry{Jiang2021}{article}{}
+      \name{author}{12}{}{%
+        {{un=0,uniquepart=base,hash=30cb736cd0f638438f1a7e87b5eb8dfa}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Linhua},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bd481ab1d80f3156d28839e06a6b235}{%
+           family={Kashikawa},
+           familyi={K\bibinitperiod},
+           given={Nobunari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4914ed000e76ff5797f091ad4da80f08}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad2b237bfee460f5431f01b7a0cce933}{%
+           family={Walth},
+           familyi={W\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07a19d3ca13fe64ecc1b833e4ff0d358}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Luis\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aad981708c41165f42d6d48575813da1}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6fff659e540ca1b644d446137b50118}{%
+           family={Egami},
+           familyi={E\bibinitperiod},
+           given={Eiichi},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a89d74a0dcb18ac2a97e9dbd0d861568}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=961ffd271dddbdf7236fe373b6f92799}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Kei},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48cbfb9809b50f76ea9552237eadf64c}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yongming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3886bd1e038dd347123031184314a04a}{%
+           family={Schaerer},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be8bbedd73fe781f4e7bf210e5ee4399}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84e679853540976de68ddc459239c44c}
+      \strng{fullhash}{84d28620cf75aa21d16b162b13972499}
+      \strng{bibnamehash}{84d28620cf75aa21d16b162b13972499}
+      \strng{authorbibnamehash}{84d28620cf75aa21d16b162b13972499}
+      \strng{authornamehash}{84e679853540976de68ddc459239c44c}
+      \strng{authorfullhash}{84d28620cf75aa21d16b162b13972499}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2397-3366}
+      \field{journaltitle}{Nature Astronomy}
+      \field{number}{3}
+      \field{title}{Evidence for GN-z11 as a luminous galaxy at redshift 10.957}
+      \field{type}{Journal Article}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{256\bibrangedash 261}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41550-020-01275-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41550-020-01275-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41550-020-01275-y
+      \endverb
+    \endentry
+    \entry{Martin2005}{article}{}
+      \name{author}{26}{}{%
+        {{un=0,uniquepart=base,hash=e5c923d75cb9d2c5a64179e61f1a6929}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi Christopher},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0701ce7f7f93341a7a59f0650b95dc97}{%
+           family={Fanson},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf146d5eae9bb3783cd2d8083f6ec05}{%
+           family={Schiminovich},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d782eb559f8afcf9a2b57b1a4427b4d0}{%
+           family={Morrissey},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d45ef977afe620198db2b5d94f5bd4a}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e7e9c763c7e0113a91ad7b34c32c642}{%
+           family={Barlow},
+           familyi={B\bibinitperiod},
+           given={Tom\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbbad58a884e822d787b8539402002b0}{%
+           family={Conrow},
+           familyi={C\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c394959e80fe1de1b33b21478738ed13}{%
+           family={Grange},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7a90110462dab3465bd2666682d3f32}{%
+           family={Jelinsky},
+           familyi={J\bibinitperiod},
+           given={Patrick\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2ac865e072a5355c74551f55797df00}{%
+           family={Milliard},
+           familyi={M\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47512323d299a00832d1ab73343c08c5}{%
+           family={Siegmund},
+           familyi={S\bibinitperiod},
+           given={Oswald\bibnamedelimb H.\bibnamedelimi W.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ef73fe7a68dc5f761230bc189a57949}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Luciana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d455572af37bc6b0fb3957200370990d}{%
+           family={Byun},
+           familyi={B\bibinitperiod},
+           given={Yong-Ik},
+           giveni={Y\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d444575e1e28b097671d91de3c3cbf68}{%
+           family={Donas},
+           familyi={D\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59c385fd97d2834ffc62cdf2c4b6d483}{%
+           family={Forster},
+           familyi={F\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e094272379fe55727159944b950738c}{%
+           family={Heckman},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53ae57eb06881a269f0fb049300afd8c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Young-Wook},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e793734301eab7b3f4cb6633a1a59d4b}{%
+           family={Madore},
+           familyi={M\bibinitperiod},
+           given={Barry\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e52ded3bc9f19961c26aa10a37c4c4a}{%
+           family={Malina},
+           familyi={M\bibinitperiod},
+           given={Roger\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e916367e2dfaaaef52d7d09278135273}{%
+           family={Neff},
+           familyi={N\bibinitperiod},
+           given={Susan\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f0dcd7c7e3ccafd025d2e35a9c06b9b}{%
+           family={Rich},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Michael},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b706a80072acd45383143961e69dc967}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0255b3440c23a27a3f17ec09d3ca2661}{%
+           family={Surber},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26d5487049d89af076bd57118933e0fe}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Alex\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=150c0fe9bb19f6d5f8dea35465ae158b}{%
+           family={Welsh},
+           familyi={W\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52e7bf668aebf5f42297d85b49f7e47e}{%
+           family={Wyder},
+           familyi={W\bibinitperiod},
+           given={Ted\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{817bd616759944dcaab5ed5176d72972}
+      \strng{fullhash}{e26b981c8a57a841a9af7f35554667c1}
+      \strng{bibnamehash}{c98b439a714971997d9a0d157d89a651}
+      \strng{authorbibnamehash}{c98b439a714971997d9a0d157d89a651}
+      \strng{authornamehash}{817bd616759944dcaab5ed5176d72972}
+      \strng{authorfullhash}{e26b981c8a57a841a9af7f35554667c1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We give an overview of the Galaxy Evolution Explorer (GALEX), a NASA Explorer Mission launched on 2003 April 28. GALEX is performing the first space UV sky survey, including imaging and grism surveys in two bands (1350-1750 and 1750-2750 Å). The surveys include an all-sky imaging survey (m<SUB>AB</SUB>~=20.5), a medium imaging survey of 1000 deg<SUP>2</SUP> (m<SUB>AB</SUB>~=23), a deep imaging survey of 100 deg<SUP>2</SUP> (m<SUB>AB</SUB>~=25), and a nearby galaxy survey. Spectroscopic (slitless) grism surveys (R=100-200) are underway with various depths and sky coverage. Many targets overlap existing or planned surveys in other bands. We will use the measured UV properties of local galaxies, along with corollary observations, to calibrate the relationship of the UV and global star formation rate in local galaxies. We will apply this calibration to distant galaxies discovered in the deep imaging and spectroscopic surveys to map the history of star formation in the universe over the redshift range 0<z<2 and probe the physical drivers of star formation in galaxies. The GALEX mission includes a guest investigator program, supporting the wide variety of programs made possible by the first UV sky survey.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{title}{The Galaxy Evolution Explorer: A Space Ultraviolet Survey Mission}
+      \field{type}{Journal Article}
+      \field{volume}{619}
+      \field{year}{2005}
+      \field{pages}{L1\bibrangedash L6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1086/426387
+      \endverb
+      \verb{urlraw}
+      \verb https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M
+      \endverb
+      \verb{url}
+      \verb https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M
+      \endverb
+      \keyw{Galaxies: Evolution Galaxies: General Space Vehicles: Instruments Surveys Ultraviolet: Galaxies Ultraviolet: General Astrophysics}
+    \endentry
     \entry{Phillips2013}{inbook}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=878b16db962b67bfbae9d291458e36b2}{%
@@ -1648,6 +2461,38 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-94-007-5621-2_7
+      \endverb
+    \endentry
+    \entry{ragers2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89da45470c6792b01eb4366bf43b0af8}{%
+           family={RAGERSTeam},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {East Asian Observatory}%
+      }
+      \strng{namehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{fullhash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{bibnamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authorbibnamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authornamehash}{89da45470c6792b01eb4366bf43b0af8}
+      \strng{authorfullhash}{89da45470c6792b01eb4366bf43b0af8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{James Clerk Maxwell Telescope}
+      \field{title}{The RAdio Galaxy Environment Reference Survey}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
+      \endverb
+      \verb{url}
+      \verb https://www.eaobservatory.org/jcmt/science/large-programs/ragers/
       \endverb
     \endentry
     \entry{Rouan2008}{article}{}
@@ -1781,8 +2626,70 @@
       \endverb
       \keyw{galaxy evolution,galaxy kinematics,galaxy structure,interstellar medium,star formation,stellar populations}
     \endentry
+    \entry{Singh2014}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=dfc1f2dbd18467ea45915d000895064e}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Veeresh},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2edf8116af34c10dca8436018222e571}{%
+           family={Beelen},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d487ff5a3dc784500cac2375c559bd1e}{%
+           family={Wadadekar},
+           familyi={W\bibinitperiod},
+           given={Yogesh},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e65d94a752b2e4d494160d6045818415}{%
+           family={Sirothia},
+           familyi={S\bibinitperiod},
+           given={Sandeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bac3130419585a6912f1d99f64f5630b}{%
+           family={Basu},
+           familyi={B\bibinitperiod},
+           given={Aritra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b88410366b2dbda62ea1ddc7b4747a}{%
+           family={Omont},
+           familyi={O\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a78d47bc0f81fdceb0851fd8c589cbc5}{%
+           family={McAlpine},
+           familyi={M\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a3a99f4ea76bc7aeb47642237bd9e35}
+      \strng{fullhash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{bibnamehash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{authorbibnamehash}{6f8b0e7e6834542b207b09b964a8decb}
+      \strng{authornamehash}{6a3a99f4ea76bc7aeb47642237bd9e35}
+      \strng{authorfullhash}{6f8b0e7e6834542b207b09b964a8decb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1402.3996}
+      \field{title}{Unveiling the population of high-redshift radio galaxies using centimeter GMRT survey}
+      \field{type}{Journal Article}
+      \field{year}{2014}
+    \endentry
   \enddatalist
-  \missing{Ragers2021}
 \endrefsection
 \endinput
 
