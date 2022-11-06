@@ -19,6 +19,61 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Burke2019}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6de4b18779cf1a01ba43cda2b168d95e}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Bernard\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a16b164a6c22dea0839a906f2bcdac16}{%
+           family={Graham-Smith},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77c9b0603d7b970033c7034e5c619d8c}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fb9efd4362beb1b9391e568ec33520af}
+      \strng{fullhash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{bibnamehash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{authorbibnamehash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{authornamehash}{fb9efd4362beb1b9391e568ec33520af}
+      \strng{authorfullhash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{9781107189416}
+      \field{title}{An Introduction to Radio Astronomy}
+      \field{type}{Book}
+      \field{year}{2019}
+      \verb{doi}
+      \verb DOI: 10.1017/9781316987506
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/books/an-introduction-to-radio-astronomy/9547F0B892F18587AC9C7D3E908924CD
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/books/an-introduction-to-radio-astronomy/9547F0B892F18587AC9C7D3E908924CD
+      \endverb
+    \endentry
     \entry{Casey2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba6f74d024521794d05c1ea77bfe91fa}{%
@@ -124,6 +179,64 @@
       \endverb
       \verb{url}
       \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+    \endentry
+    \entry{Chiang2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=dc2886eb444f1a1afab0596b628ce360}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Yi-Kuan},
+           giveni={Y\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff94804dd57b8b3913f5b51f5556db29}{%
+           family={Overzier},
+           familyi={O\bibinitperiod},
+           given={Roderik\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6705cf5acfb33c4083f167910b4a7363}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b30235aa19055376b5f2131e6a72ec5}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7070f83ed4c1fd71b939863269e3d492}
+      \strng{fullhash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{bibnamehash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{authorbibnamehash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{authornamehash}{7070f83ed4c1fd71b939863269e3d492}
+      \strng{authorfullhash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{title}{Galaxy Protoclusters as Drivers of Cosmic Star Formation History in the First 2 Gyr}
+      \field{type}{Journal Article}
+      \field{volume}{844}
+      \field{year}{2017}
+      \field{pages}{L23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/aa7e7b
+      \endverb
+      \verb{urlraw}
+      \verb https://ui.adsabs.harvard.edu/abs/2017ApJ...844L..23C https://iopscience.iop.org/article/10.3847/2041-8213/aa7e7b/pdf
+      \endverb
+      \verb{url}
+      \verb https://ui.adsabs.harvard.edu/abs/2017ApJ...844L..23C%20https://iopscience.iop.org/article/10.3847/2041-8213/aa7e7b/pdf
       \endverb
     \endentry
     \entry{DaCunha2021}{article}{}
@@ -1431,6 +1544,61 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Burke2019}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6de4b18779cf1a01ba43cda2b168d95e}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Bernard\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a16b164a6c22dea0839a906f2bcdac16}{%
+           family={Graham-Smith},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77c9b0603d7b970033c7034e5c619d8c}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fb9efd4362beb1b9391e568ec33520af}
+      \strng{fullhash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{bibnamehash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{authorbibnamehash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \strng{authornamehash}{fb9efd4362beb1b9391e568ec33520af}
+      \strng{authorfullhash}{e812aa671971a5bc03ab7d4f0439f5ba}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{9781107189416}
+      \field{title}{An Introduction to Radio Astronomy}
+      \field{type}{Book}
+      \field{year}{2019}
+      \verb{doi}
+      \verb DOI: 10.1017/9781316987506
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/books/an-introduction-to-radio-astronomy/9547F0B892F18587AC9C7D3E908924CD
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/books/an-introduction-to-radio-astronomy/9547F0B892F18587AC9C7D3E908924CD
+      \endverb
+    \endentry
     \entry{Casey2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ba6f74d024521794d05c1ea77bfe91fa}{%
@@ -1536,6 +1704,64 @@
       \endverb
       \verb{url}
       \verb https://dx.doi.org/10.1086/428082%20https://iopscience.iop.org/article/10.1086/428082/pdf
+      \endverb
+    \endentry
+    \entry{Chiang2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=dc2886eb444f1a1afab0596b628ce360}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Yi-Kuan},
+           giveni={Y\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff94804dd57b8b3913f5b51f5556db29}{%
+           family={Overzier},
+           familyi={O\bibinitperiod},
+           given={Roderik\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6705cf5acfb33c4083f167910b4a7363}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b30235aa19055376b5f2131e6a72ec5}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7070f83ed4c1fd71b939863269e3d492}
+      \strng{fullhash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{bibnamehash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{authorbibnamehash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \strng{authornamehash}{7070f83ed4c1fd71b939863269e3d492}
+      \strng{authorfullhash}{8459cbff5a9433c51ab8039acb9a0d93}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{title}{Galaxy Protoclusters as Drivers of Cosmic Star Formation History in the First 2 Gyr}
+      \field{type}{Journal Article}
+      \field{volume}{844}
+      \field{year}{2017}
+      \field{pages}{L23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/aa7e7b
+      \endverb
+      \verb{urlraw}
+      \verb https://ui.adsabs.harvard.edu/abs/2017ApJ...844L..23C https://iopscience.iop.org/article/10.3847/2041-8213/aa7e7b/pdf
+      \endverb
+      \verb{url}
+      \verb https://ui.adsabs.harvard.edu/abs/2017ApJ...844L..23C%20https://iopscience.iop.org/article/10.3847/2041-8213/aa7e7b/pdf
       \endverb
     \endentry
     \entry{DaCunha2021}{article}{}

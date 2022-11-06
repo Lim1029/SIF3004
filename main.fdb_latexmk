@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1667698416 "main.bcf" "main.bbl" "main" 1667698424
-  "main.bcf" 1667698424 126308 0b89162a3893248e95b8e25a7edd0948 "pdflatex"
-  "sample.bib" 1667697941 19403 de8c7148e068191b7d1d71e1b880412e ""
+["biber main"] 1667701181 "main.bcf" "main.bbl" "main" 1667701193
+  "main.bcf" 1667701193 126444 8116c7cb425c1134087fbedc71cabf3f "pdflatex"
+  "sample.bib" 1667701127 20426 73f48cd84a0a88d1734da858b1de5852 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667698421 "main.tex" "main.pdf" "main" 1667698424
+["pdflatex"] 1667701190 "main.tex" "main.pdf" "main" 1667701193
   "C:/Users/Ming Kang/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667534065 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Ming Kang/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1667479936 10789934 6a198c1cf6d6f984742f7383de73396a ""
   "C:/Users/Ming Kang/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -117,11 +117,11 @@
   "cosmic noon.png" 1667645516 200342 b56e81a70e442a2a622dfad0a158680c ""
   "gantt chart.png" 1667461904 46256 3b97f821079d54dccd72d3a78856cc36 ""
   "hubble fork.jpg" 1667696897 169240 1cb3ab17ffb0a32eac556ce595898bf6 ""
-  "main.aux" 1667698424 8847 a1cbeabbeffad9321fc5bf9dcd5c281e "pdflatex"
-  "main.bbl" 1667698419 136819 424333e5c15517debf697fafe859df64 "biber main"
-  "main.out" 1667698424 793 35487f5b12dc54662190f23ef5bbd506 "pdflatex"
-  "main.run.xml" 1667698424 2423 bc064c90f96f06889f9c0a9ac5e6dc28 "pdflatex"
-  "main.tex" 1667698410 11237 ad592ba8daa8ac2b28e11381a7e8a181 ""
+  "main.aux" 1667701193 9304 8f92d78e714786d5203b458b5f0326e5 "pdflatex"
+  "main.bbl" 1667701184 146253 12e5d8c6ff4a8ad7033a91f953bd6a57 "biber main"
+  "main.out" 1667701193 793 35487f5b12dc54662190f23ef5bbd506 "pdflatex"
+  "main.run.xml" 1667701193 2423 bc064c90f96f06889f9c0a9ac5e6dc28 "pdflatex"
+  "main.tex" 1667701171 11297 8e1ae9c872a254d9f04dbb61e3aef7dc ""
   "reducevsunreduce.png" 1667351644 210679 59d206963fc626a022f67ddab0228d74 ""
   (generated)
   "main.aux"

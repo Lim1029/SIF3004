@@ -30,7 +30,7 @@ At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 
 \noindent Obscured by dust, those galaxies are not feasible to be observed in visible region, a telescope capable in observing in far infrared wavelength is needed to detect the galaxies.
 \medskip
 
-\noindent Raw telescope data needs to be reduced, cleaned and calibrated before doing analuysis, as noise and false detections may be presence, the processes are essential to obtain a clean map for analysis. 
+\noindent Raw telescope data needs to be reduced, cleaned and calibrated before doing analysis, as noise and false detections may be presence, the processes are essential to obtain a clean map for analysis. 
 
 \medskip
 
@@ -43,7 +43,7 @@ At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 
     \item To obtain photometric redshift of submm galaxies in a source field using multiwavelength analysis.
 \end{enumerate}
 \section{Background}
-Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals (refer figure \ref{fig:hubblefork}). It is oversimplified with the discovery, although not abundant, of irregular galaxies \parencite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \parencite{Rouan2008}. Galaxies are then categorised based on wavelength of energetic emission. For instances radio galaxies' emission is dominated by radio frequencies \parencite{Slijepcevic2022}. Likewise for submillimetre galaxies.
+Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals (refer figure \ref{fig:hubblefork}). It is oversimplified with the discovery, although not abundant, of irregular galaxies \parencite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \parencite{Rouan2008}. Galaxies are then categorised based on their dominant emission frequency or wavelength. For instances radio galaxies' emission is dominated by radio frequencies \parencite{Slijepcevic2022}. Likewise for submillimetre galaxies.
 \medskip
 
 \begin{figure}
@@ -54,13 +54,13 @@ Galaxies in the universe can be classified based on their morphologies (or shape
 \end{figure}
 
 \noindent As one of the massive structures of the universe, The evolution of galaxies gives insights to the evolution
-of the universe. Population of galaxies based on types in certain redshift and their star formation rate (SFR) are two parameters to examine the evolution \parencite{Martin2005}. Observation has shown that SFR across the history of universe peaks at $2 < z < 3$, this period is known as the cosmic noon. (refer to figure \ref{fig:cosmicnoon}) Light from distance object (eg. a galaxy) undergoes redshifting due to expansion of the universe, therefore allows astrophysicists to observe the "snapshot" of the object at particular history of time, up until young universe (several million years after the big bang \parencite{Jiang2021}).  By observing galaxies at high redshift, high population of giant galaxies are particularly interesting to study, such as submillimetre galaxies and high redshift radio galaxies \parencite{Singh2014} \parencite{Chapman2005},  that contribute to high SFR during "cosmic noon".
+of the universe. Population of galaxies based on types in certain redshift and their star formation rate (SFR) are two parameters to examine the evolution \parencite{Martin2005}. Observation has shown that SFR across the history of universe peaks at $2 < z < 3$, this period is known as the cosmic noon \parencite{Schreiber2020}. (refer to figure \ref{fig:cosmicnoon}) Light from distance object (eg. a galaxy) undergoes redshifting due to expansion of the universe, therefore allows astrophysicists to observe the "snapshot" of the object at particular history of time, up until young universe (several million years after the big bang \parencite{Jiang2021}).  By observing galaxies at high redshift, high population of giant galaxies are particularly interesting to study, such as submillimetre galaxies and high redshift radio galaxies \parencite{Singh2014} \parencite{Chapman2005},  that contribute to high SFR during "cosmic noon".
 \medskip
 
 \begin{figure}
     \centering
     \includegraphics[width=100mm]{cosmic noon.png}
-    \caption{Graph of logarithm of cosmic SFR density vs redshift, peaks at around $z = 2$. Source Source: Thomas R. Greve, private communication. and \parencite{Zotti2018}}
+    \caption{Graph of logarithm of cosmic SFR density vs redshift, peaks at around $z = 2$. Source Source: Thomas R. Greve, private communication. and \parencite{Chiang2017}}
     \label{fig:cosmicnoon}
 \end{figure}
 
@@ -75,7 +75,7 @@ of the universe. Population of galaxies based on types in certain redshift and t
 
 \section{Research Methodology}
 
-The research will be carried out on handling raw $850\mu m$ and $450\mu m$ data collected from JCMT SCUBA-2 under RAGERS Project, in collaboration with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
+The research will be carried out on handling raw $850\mu m$ and $450\mu m$ data collected from JCMT SCUBA-2 under RAGERS Project. Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
 \medskip
 
 \begin{figure}
@@ -91,16 +91,16 @@ The research will be carried out on handling raw $850\mu m$ and $450\mu m$ data 
 \noindent SCUBA-2 is a camera attached on JCMT to observe at 450$\mu m$ and 850$\mu m$ (~666GHz and 353GHz), which are frequencies emitted by light molecules containing hydrogen (eg. $H_2O,CH$) from the dust \parencite{Phillips2013}. The data is formatted and stored in .sdf format, which is readable by starlink software.
 \medskip
 
-\noindent The RAdio Galaxy Environment Reference Survey is a JCMT program to observe overdensities within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ \parencite{ragers2021}
+\noindent The RAdio Galaxy Environment Reference Survey (RAGERS) is a JCMT program to observe overdensities within the Mpc region of 33 radio galaxies at redshift range $1 < z < 3.5$ and mass range $M\ast >=1010.8M\odot $ \parencite{ragers2021}
 \medskip
 
 % \noindent Source field is a region spanning across few Mpc centered around a HzRG, which is located at $1 < z < 3.5$ 
 % \medskip
 
-\noindent 5C7269 is a source field centered around a HzRG named 5C7269, which is located at $RA = 8h28m39s$, $DEC = 25d28m27.1s$ and $z = 2.218$, 
+\noindent 5C7269 is of of 33 survey source fields centered around a HzRG named 5C7269, which is located at $RA = 8h28m39s$, $DEC = 25d28m27.1s$ and $z = 2.218$, and it is the target for this study.
 \medskip
 
-\noindent Starlink is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation. Telescopes are usually associate with their proprietery software for data handling. For instances, CASA for ALMA, Starlink for JCMT and AIPS for Very Large Baseline Array (VLBA). It is extremely important to produce useful science data from noisy telescope data to remove as much noises as possible (eg. Radio Frequency Inteference (RFI)) and extract useful information to the max. Figure \ref{fig:reducevsunreduce} shows an example of the comparison between raw telescope data, and image after data reduction.
+\noindent Starlink is a software consisting of several packages used to reduce and analyse data recorded by SCUBA-2 telescope, including (but not limited to) SMURF for data reduction and GAIA for data visualisation. Telescopes are usually associate with their proprietery software for data handling. For instances, CASA for ALMA, Starlink for JCMT and AIPS for Very Large Baseline Array (VLBA). It is extremely important to produce useful science data from noisy telescope data to remove as much noises as possible (eg. Temperature noise, Radio Frequency Inteference (RFI)) and extract useful information to the max \parencite{Burke2019}. Figure \ref{fig:reducevsunreduce} shows an example of the comparison between raw telescope data, and image after data reduction.
 
 \begin{figure}
     \centering
