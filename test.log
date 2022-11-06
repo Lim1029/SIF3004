@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.3)  4 NOV 2022 12:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.3)  6 NOV 2022 09:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,6 +489,12 @@ Overfull \hbox (11.13742pt too wide) in paragraph at lines 14--14
  (pp. 283{313). Springer Nether-
  []
 
+
+Overfull \hbox (0.84685pt too wide) in paragraph at lines 14--14
+\OT1/cmr/m/it/10 Clerk Maxwell Tele-scope\OT1/cmr/m/n/10 . $https : / / www . e
+aobservatory . org / jcmt / science /
+ []
+
 [1
 
 {C:/Users/Ming Kang/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -498,10 +504,10 @@ Package logreq Info: Writing requests to 'test.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10932 strings out of 475385
- 216567 string characters out of 2774983
+ 10931 strings out of 475385
+ 216552 string characters out of 2774983
  1078404 words of memory out of 3000000
- 32255 multiletter control sequences out of 15000+600000
+ 32254 multiletter control sequences out of 15000+600000
  470210 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,70p,3121b,5044s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -511,7 +517,7 @@ blic/amsfonts/cm/cmmi10.pfb><C:/Users/Ming Kang/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ming Kang/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ming Kang/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on test.pdf (2 pages, 78380 bytes).
+Output written on test.pdf (2 pages, 78891 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

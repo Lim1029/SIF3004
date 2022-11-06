@@ -1270,7 +1270,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ever deeper and wider look-back surveys have led to a fairly robust outline of the cosmic star-formation history, which culminated around ; this period is often nicknamed “cosmic noon.” Our knowledge about star-forming galaxies at these epochs has dramatically advanced from increasingly complete population censuses and detailed views of individual galaxies. We highlight some of the key observational insights that influenced our current understanding of galaxy evolution in the equilibrium growth picture: ▪ Scaling relations between galaxy properties are fairly well established among massive galaxies at least out to , pointing to regulating mechanisms already acting on galaxy growth. ▪ Resolved views reveal that gravitational instabilities and efficient secular processes within the gas- and baryon-rich galaxies at play an important role in the early buildup of galactic structure. ▪ Ever more sensitive observations of kinematics at are probing the baryon and dark matter budget on galactic scales and the links between star-forming galaxies and their likely descendants. ▪ Toward higher masses, massive bulges, dense cores, and powerful AGNs and AGN-driven outflows are more prevalent and likely play a role in quenching star formation. We outline emerging questions and exciting prospects for the next decade with upcoming instrumentation, including the James Webb Space Telescope and the next generation of extremely large telescopes.}
       \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
       \field{number}{1}
       \field{title}{Star-Forming Galaxies at Cosmic Noon}
@@ -1352,6 +1351,83 @@
       \field{title}{Unveiling the population of high-redshift radio galaxies using centimeter GMRT survey}
       \field{type}{Journal Article}
       \field{year}{2014}
+    \endentry
+    \entry{Slijepcevic2022}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=49bfef410d388b6cccf316f06ede5d73}{%
+           family={Slijepcevic},
+           familyi={S\bibinitperiod},
+           given={Inigo\bibnamedelima V},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a466a3f43569aa77558d552d8fc8701b}{%
+           family={Scaife},
+           familyi={S\bibinitperiod},
+           given={Anna\bibnamedelimb M\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5402c34a3cd428471a7a9981bf50fbd5}{%
+           family={Walmsley},
+           familyi={W\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=605cde6c8b90cd12ee31e19443349b3c}{%
+           family={Bowles},
+           familyi={B\bibinitperiod},
+           given={Micah},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=173457f1189dfbff2141c71bfc052c3a}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={O\bibnamedelima Ivy},
+           giveni={O\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a66a9e7c58a3816abeb365097b4c4271}{%
+           family={Shabala},
+           familyi={S\bibinitperiod},
+           given={Stanislav\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e2e9b8ce36b774765716ad0b2cb7c10}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Hongming},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80cf7b0bc7b3e99867476c5d9931c749}
+      \strng{fullhash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{bibnamehash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{authorbibnamehash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{authornamehash}{80cf7b0bc7b3e99867476c5d9931c749}
+      \strng{authorfullhash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{number}{2}
+      \field{title}{Radio Galaxy Zoo: using semi-supervised learning to leverage large unlabelled data sets for radio galaxy classification under data set shift}
+      \field{type}{Journal Article}
+      \field{volume}{514}
+      \field{year}{2022}
+      \field{pages}{2599\bibrangedash 2613}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1093/mnras/stac1135
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/stac1135
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/stac1135
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -2606,7 +2682,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ever deeper and wider look-back surveys have led to a fairly robust outline of the cosmic star-formation history, which culminated around ; this period is often nicknamed “cosmic noon.” Our knowledge about star-forming galaxies at these epochs has dramatically advanced from increasingly complete population censuses and detailed views of individual galaxies. We highlight some of the key observational insights that influenced our current understanding of galaxy evolution in the equilibrium growth picture: ▪ Scaling relations between galaxy properties are fairly well established among massive galaxies at least out to , pointing to regulating mechanisms already acting on galaxy growth. ▪ Resolved views reveal that gravitational instabilities and efficient secular processes within the gas- and baryon-rich galaxies at play an important role in the early buildup of galactic structure. ▪ Ever more sensitive observations of kinematics at are probing the baryon and dark matter budget on galactic scales and the links between star-forming galaxies and their likely descendants. ▪ Toward higher masses, massive bulges, dense cores, and powerful AGNs and AGN-driven outflows are more prevalent and likely play a role in quenching star formation. We outline emerging questions and exciting prospects for the next decade with upcoming instrumentation, including the James Webb Space Telescope and the next generation of extremely large telescopes.}
       \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
       \field{number}{1}
       \field{title}{Star-Forming Galaxies at Cosmic Noon}
@@ -2688,6 +2763,83 @@
       \field{title}{Unveiling the population of high-redshift radio galaxies using centimeter GMRT survey}
       \field{type}{Journal Article}
       \field{year}{2014}
+    \endentry
+    \entry{Slijepcevic2022}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=49bfef410d388b6cccf316f06ede5d73}{%
+           family={Slijepcevic},
+           familyi={S\bibinitperiod},
+           given={Inigo\bibnamedelima V},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a466a3f43569aa77558d552d8fc8701b}{%
+           family={Scaife},
+           familyi={S\bibinitperiod},
+           given={Anna\bibnamedelimb M\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5402c34a3cd428471a7a9981bf50fbd5}{%
+           family={Walmsley},
+           familyi={W\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=605cde6c8b90cd12ee31e19443349b3c}{%
+           family={Bowles},
+           familyi={B\bibinitperiod},
+           given={Micah},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=173457f1189dfbff2141c71bfc052c3a}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={O\bibnamedelima Ivy},
+           giveni={O\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a66a9e7c58a3816abeb365097b4c4271}{%
+           family={Shabala},
+           familyi={S\bibinitperiod},
+           given={Stanislav\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e2e9b8ce36b774765716ad0b2cb7c10}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Hongming},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80cf7b0bc7b3e99867476c5d9931c749}
+      \strng{fullhash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{bibnamehash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{authorbibnamehash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \strng{authornamehash}{80cf7b0bc7b3e99867476c5d9931c749}
+      \strng{authorfullhash}{7bf3d4e167e40ca145ca787476c5b6f9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{number}{2}
+      \field{title}{Radio Galaxy Zoo: using semi-supervised learning to leverage large unlabelled data sets for radio galaxy classification under data set shift}
+      \field{type}{Journal Article}
+      \field{volume}{514}
+      \field{year}{2022}
+      \field{pages}{2599\bibrangedash 2613}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1093/mnras/stac1135
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/stac1135
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/stac1135
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

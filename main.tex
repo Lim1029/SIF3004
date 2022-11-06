@@ -43,12 +43,27 @@ At the cosmological redshift of $2 < z < 3$ (observing the condition about 10.9 
     \item To obtain photometric redshift of submm galaxies in a source field using multiwavelength analysis.
 \end{enumerate}
 \section{Background}
-Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals. It is oversimplified with the discovery, although not abundant, of irregular galaxies \parencite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \parencite{Rouan2008}. Galaxies are then categorised based on wavelength of energetic emission. For instances radio galaxies emit relatively high radio frequency than its optical counterpart. Likewise, submillimetre galaxies emit strong electromagnetic wave at submillimetre region.
+Galaxies in the universe can be classified based on their morphologies (or shapes). The famous hubble tuning fork is a classification scheme that mainly divides galaxy morphologies into two categories which are ellipticals and spirals (refer figure \ref{fig:hubblefork}). It is oversimplified with the discovery, although not abundant, of irregular galaxies \parencite{Gallagher1984}. However, at high redshift, the limitation of optical observation and image resolution places a challenge on measured morphologies \parencite{Rouan2008}. Galaxies are then categorised based on wavelength of energetic emission. For instances radio galaxies' emission is dominated by radio frequencies \parencite{Slijepcevic2022}. Likewise for submillimetre galaxies.
 \medskip
 
+\begin{figure}
+    \centering
+    \includegraphics[width=100mm]{hubble fork.jpg}
+    \caption{The Hubble tuning fork. Galaxies are mainly classified into two categories (spiral and elliptical). Source: ESA/HUBBLE Website https://www.spacetelescope.org/images/heic9902o/}
+    \label{fig:hubblefork}
+\end{figure}
+
 \noindent As one of the massive structures of the universe, The evolution of galaxies gives insights to the evolution
-of the universe. Population of galaxies based on types in certain redshift and their star formation rate (SFR) are two parameters to examine the evolution \cite{Martin2005}. Observation has shown that SFR across the history of universe peaks at $2 < z < 3$, this period is known as the cosmic noon. (refer to figure \ref{fig:cosmicnoon}) Light from distance object (eg. a galaxy) undergoes redshifting due to expansion of the universe, therefore allows astrophysicists to observe the "snapshot" of the object at particular history of time, up until young universe (several million years after the big bang \cite{Jiang2021}).  By observing galaxies at high redshift, high population of giant galaxies are particularly interesting to study, such as submillimetre galaxies and high redshift radio galaxies \cite{Singh2014} \cite{Chapman2005},  that contribute to high SFR during "cosmic noon".
+of the universe. Population of galaxies based on types in certain redshift and their star formation rate (SFR) are two parameters to examine the evolution \parencite{Martin2005}. Observation has shown that SFR across the history of universe peaks at $2 < z < 3$, this period is known as the cosmic noon. (refer to figure \ref{fig:cosmicnoon}) Light from distance object (eg. a galaxy) undergoes redshifting due to expansion of the universe, therefore allows astrophysicists to observe the "snapshot" of the object at particular history of time, up until young universe (several million years after the big bang \parencite{Jiang2021}).  By observing galaxies at high redshift, high population of giant galaxies are particularly interesting to study, such as submillimetre galaxies and high redshift radio galaxies \parencite{Singh2014} \parencite{Chapman2005},  that contribute to high SFR during "cosmic noon".
 \medskip
+
+\begin{figure}
+    \centering
+    \includegraphics[width=100mm]{cosmic noon.png}
+    \caption{Graph of logarithm of cosmic SFR density vs redshift, peaks at around $z = 2$. Source Source: Thomas R. Greve, private communication. and \parencite{Zotti2018}}
+    \label{fig:cosmicnoon}
+\end{figure}
+
 
 \noindent Submillimetre Galaxies (SMGs) are rare galaxies with high star formation rates $(>100M_\odot yr^{-1})$ \parencite{DaCunha2021} populated in high redshift region. Suspected to be the progenitors of local massive galaxies \parencite{Casey2014}, SMGs are valuable candidates to study evolution of galaxies in high redshift. One challenge in observing SMGs is the amount of dust, which serves as the building blocks for star formation, which obscure visible light, thus are hard to be observed with optical telescopes. However, the dust absorbs the radiation emitted from new stars and reemmits as far infrared wavelength \parencite{Casey2014}, the observation of SMGs is possible with submillimetre telecopes. 
 \medskip
@@ -60,8 +75,15 @@ of the universe. Population of galaxies based on types in certain redshift and t
 
 \section{Research Methodology}
 
-The research will be carried out on handling raw 0.85mm and 0.45mm data collected from JCMT SCUBA-2 under RAGERS Project, in collaboration with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
+The research will be carried out on handling raw $850\mu m$ and $450\mu m$ data collected from JCMT SCUBA-2 under RAGERS Project, in collaboration with RAGERS Malaysia Team (from where the raw data is acquired). Data Reduction is run on Starlink software. The process of data handling is shown in Figure \ref{fig:flowchart1}
 \medskip
+
+\begin{figure}
+    \centering
+    \includegraphics[width=150mm]{Flowchart.png}
+    \caption{General process of data handling of raw telescope data.}
+    \label{fig:flowchart1}
+\end{figure}
 
 \noindent James Clerk Maxwell Telescope (JCMT) is a 15m telesope designed to run on submillimetre wavelength (far infrared region). It is positioned at Maunakea, Hawaii. 
 \medskip
@@ -82,17 +104,19 @@ The research will be carried out on handling raw 0.85mm and 0.45mm data collecte
 
 \begin{figure}
     \centering
-    \includegraphics[width=100mm]{Flowchart.png}
-    \caption{General process of data handling of raw telescope data.}
-    \label{fig:flowchart1}
-\end{figure}
-
-\begin{figure}
-    \centering
     \includegraphics[width=100mm]{reducevsunreduce.png}
     \caption{An example of the comparison between raw telescope data (up), where there is no clear galaxies count, and image after data reduction (down), where SMGs appear as white dots. Source: Thomas R. Greve, private communication.}
     \label{fig:reducevsunreduce}
 \end{figure}
+
+
+
+
+
+
+
+\section{Expected Results}
+A reduced, low noise data similar to figure \ref{fig:reducevsunreduce} should be obtained. From the reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Figure \ref{fig:sndensity} shows one example of graph of surface number density of cluster galaxies vs distance from a cluster center. A Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift. An example of the stated graph is shown in figure \ref{fig:sedgraph}, obtained from article \parencite{Zotti2018}
 
 \begin{figure}
     \centering
@@ -108,19 +132,8 @@ The research will be carried out on handling raw 0.85mm and 0.45mm data collecte
     \label{fig:sedgraph}
 \end{figure}
 
-\begin{figure}
-    \centering
-    \includegraphics[width=100mm]{cosmic noon.png}
-    \caption{Graph of logarithm of cosmic SFR density vs redshift, peaks at around $z = 2$. Source Source: Thomas R. Greve, private communication. and \parencite{Zotti2018}}
-    \label{fig:cosmicnoon}
-\end{figure}
-
-
-\section{Expected Results}
-A reduced, low noise data similar to figure \ref{fig:reducevsunreduce}b should be obtained. From the reduced data, surface number density as the function of radius from center HzRG can be calculated from the number counts. Figure \ref{fig:sndensity} shows one example of graph of surface number density of cluster galaxies vs distance from a cluster center. A Spectral Energy Density (SED) of each detected submm galaxy can be calculated by combining multiwavelength flux density to obtain photometric redshift. An example of the stated graph is shown in figure \ref{fig:sedgraph}, obtained from article \parencite{Zotti2018}
-
 \section{Significance}
-Surface number density is essential in studying the effect of HzRG on the environment. The addition of 0.85mm and 0.45mm in SED will give a more accurate photometric redshift of galaxies, which is crucial to study the evolution of galaxies with redshift. More comprehensive data of proto-cluster dynamic will probe into a more robust understanding of galaxies structure evolution.
+Surface number density is essential in studying the effect of HzRG on the environment. The addition of $850\mu m$ and $450\mu$ in SED will give a more accurate photometric redshift of galaxies, which is crucial to study the evolution of galaxies with redshift. More comprehensive data of proto-cluster dynamic will probe into a more robust understanding of galaxies structure evolution.
 
 \section{Gantt Chart}
 \begin{figure}[h]
