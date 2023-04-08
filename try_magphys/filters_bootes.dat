@@ -1,0 +1,5 @@
+#name	  lambda_eff	filter_id	fit?
+SCUBA2850 850.		370		1	
+SPIRE250  250.		444		1
+SPIRE350  350.		445		1
+SPIRE500  500.		446		1
